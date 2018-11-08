@@ -1,0 +1,22 @@
+lang: ru-RU
+encoding: utf-8
+
+title: "Медвежий угол"
+description: "Стихи, рассказы, заметки"
+
+author: "Марк Шевченко"
+url: http://mark.shevchenko.name
+
+permalink: pretty
+highlighter: rouge
+
+exclude:
+- Gemfile
+- CNAME
+- LICENSE
+- README.md
+
+markdown: kramdown
+
+kramdown:
+  auto_ids: true
