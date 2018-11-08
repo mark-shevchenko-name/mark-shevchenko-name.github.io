@@ -1,0 +1,6 @@
+.lyrics {
+	display: table;
+	margin: 0 auto;
+	white-space: pre-line;
+	word-wrap: break-word;
+}
