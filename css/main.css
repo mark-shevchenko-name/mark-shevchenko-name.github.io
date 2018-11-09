@@ -17,7 +17,8 @@ footer {
 .header-title,
 .header-subtitle {
     color: white;
-    text-shadow: 2;
+    text-shadow: black 2px;
+    text-align: center;
 }
 
 .header-title {
@@ -26,6 +27,7 @@ footer {
 
 .header-subtitle {
 	font-size: 120%;
+	letter-spacing: 0.1ex;
 }
 
 .lyrics {
