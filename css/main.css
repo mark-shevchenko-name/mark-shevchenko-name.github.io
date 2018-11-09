@@ -6,7 +6,26 @@ header {
 }
 
 article {
-	min-height: 600px;
+	height: 100%;
+	min-height: 100%;
+}
+
+footer {
+	margin-top: 2em;
+}
+
+.header-title,
+.header-subtitle {
+    color: white;
+    text-shadow: 2;
+}
+
+.header-title {
+	font-size: 144%;
+}
+
+.header-subtitle {
+	font-size: 120%;
 }
 
 .lyrics {
