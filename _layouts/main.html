@@ -13,22 +13,24 @@
   </head>
   <body>
     <header>
-      <div class="container header">
-        <div class="header-title">Медвежий угол</div>
-        <div class="header-subtitle">Марка Шевченко</div>
+      <div class="container">
+        <div class="row">
+          <a class="col-12 text-right header-title" href="/">Медвежий угол</a>
+        </div>
       </div>
     </header>
-    <nav>
+    <nav class="container">
+      <ul class="row">
+        <li class="col-12"><a href="/blog">Журнал</a></li>
+        <li class="col-12"><a href="/lyrics">Стихи, песни</a></li>
+        <li class="col-12"><a href="/belles-lettres">Беллетристика</a></li>
+      </ul>
     </nav>
+    <article class="container">
+      {{ content }}
     <article>
-      <div class="container">
-        {{ content }}
-      </div>
-    <article>
-    <footer>
-      <div class="container text-center">
-        &copy; Написано Марком Шевченко в 1993&ndash;2018 годах.
-      </div>
+    <footer class="container text-center">
+      &copy; Написано Марком Шевченко в 1993&ndash;2018 годах.
     </footer>
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
