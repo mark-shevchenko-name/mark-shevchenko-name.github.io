@@ -15,6 +15,7 @@ footer {
 }
 
 header > .container {
+	height: 128px;
 	position: relative;
 }
 
