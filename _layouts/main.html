@@ -19,15 +19,13 @@
         </div>
       </div>
     </header>
-    <div class="container">
-      <nav class="navbar navbar-expand-md">
-        <ul class="navbar-nav">
-          <li class="nav-item"><a class="nav-link" href="{{ "/blog" | relative_url }}">Журнал</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ "/lyrics" | relative_url }}">Стихи, песни</a></li>
-          <li class="nav-item"><a class="nav-link" href="{{ "/belles-lettres" | relative_url }}">Беллетристика</a></li>
-        </ul>
-      </nav>
-    </div>
+    <nav class="navbar navbar-expand-md container">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link" href="{{ "/blog" | relative_url }}">Журнал</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ "/lyrics" | relative_url }}">Стихи, песни</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ "/belles-lettres" | relative_url }}">Беллетристика</a></li>
+      </ul>
+    </nav>
     <article class="container">
       {{ content }}
     <article>
