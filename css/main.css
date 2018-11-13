@@ -26,6 +26,7 @@ header {
 }
 
 article {
+	min-height: 12em;
 }
 
 footer {
@@ -65,7 +66,7 @@ header > .container {
 }
 
 .breadcrumbs {
-	font-size: 10pt;
+	font-size: 16px;
 	margin-bottom: 2em;
 }
 
