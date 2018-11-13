@@ -64,6 +64,11 @@ header > .container {
 	text-decoration: none;
 }
 
+.breadcrumbs {
+	font-size: 10pt;
+	margin-bottom: 2em;
+}
+
 .lyrics > p {
 	white-space: pre-line;
 }
