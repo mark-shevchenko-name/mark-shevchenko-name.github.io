@@ -1,6 +1,6 @@
 body {
 	background-color: #FBF1DF;
-	font-size: calc((.4em + 2vmin) + (.4em + 2vmax));
+	font-size: calc(4vmin);
 }
 
 h1,
