@@ -9,8 +9,8 @@ title: Журнал
   <p><em>{{ post.excerpt | strip_html | normalize_whitespace | escape }}</em></p>
 {% endfor %}
 
-<nav class="justify-content-center">
-  <ul class="pagination">
+<nav>
+  <ul class="pagination justify-content-center">
     {% if paginator.previous_page %}
       <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
     {% else %}
