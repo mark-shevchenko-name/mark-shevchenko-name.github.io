@@ -57,3 +57,5 @@ layout: lyrics
 Нас за поворотом
 Ждал новый поворот.
 {: .indented}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-GQxMSBZtw4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
