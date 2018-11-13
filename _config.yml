@@ -2,7 +2,7 @@ lang: ru-RU
 encoding: utf-8
 
 title: "Медвежий угол"
-description: "Стихи, рассказы, заметки"
+description: "Стихи, рассказы и путевые заметки Марка Шевченко."
 
 author: "Марк Шевченко"
 url: http://mark.shevchenko.name
@@ -10,13 +10,19 @@ url: http://mark.shevchenko.name
 permalink: pretty
 highlighter: rouge
 
+paginate: 10
+paginate_path: "/posts/:num"
+
 exclude:
-- Gemfile
-- CNAME
-- LICENSE
-- README.md
+  - Gemfile
+  - CNAME
+  - LICENSE
+  - README.md
 
 markdown: kramdown
 
 kramdown:
   auto_ids: true
+
+gems:
+  - jekyll-paginate
