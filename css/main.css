@@ -51,14 +51,16 @@ header > .container {
 	padding: 0;
 }
 
-.navigation-item > a {
+.navigation-item > a,
+.navigation-item > a:hover {
+	font-size: 120%;
 	display: block;
+	text-align: center;
 	width: 100%;
+	text-decoration: none;
 }
 
 .lyrics {
-	display: table;
-	margin: 0 auto;
 	white-space: pre-line;
 	word-wrap: break-word;
 }
