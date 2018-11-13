@@ -9,16 +9,18 @@ title: Журнал
   <p><em>{{ post.excerpt | strip_html | normalize_whitespace | escape }}</em></p>
 {% endfor %}
 
-<ul class="pagination">
-  {% if paginator.previous_page %}
-    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
-  {% else %}
-    <li class="page-item disabled">Назад</li>
-  {% endif %}
-    <li class="page-item disabled">{{ paginator.page }} / {{ paginator.total_pages }}</li>
-  {% if paginator.next_page %}
-    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Вперёд</a></li>
-  {% else %}
-    <li class="page-item disabled">Вперёд</li>
-  {% endif %}
-</ul>
+<nav>
+  <ul class="pagination">
+    {% if paginator.previous_page %}
+      <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
+    {% else %}
+      <li class="page-item disabled"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
+    {% endif %}
+      <li class="page-item disabled">{{ paginator.page }} / {{ paginator.total_pages }}</li>
+    {% if paginator.next_page %}
+      <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Вперёд</a></li>
+    {% else %}
+      <li class="page-item disabled"><a class="page-link" href="{{ paginator.next_page_path }}">Вперёд</a></li>
+    {% endif %}
+  </ul>
+</nav>

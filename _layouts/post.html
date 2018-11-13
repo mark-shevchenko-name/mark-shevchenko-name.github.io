@@ -2,6 +2,10 @@
 layout: main
 ---
 
+<p class="breadcrumbs">
+  <a href="{{ "/blog" | relative_url }}">Журнал</a>&nbsp;&raquo; {{ page.title | escape }}
+</p>
+
 <h2>{{ page.title }}{% if page.subtitle %}<br /><small>{{ page.subtitle }}</small>{% endif %}</h2>
 {% if page.description %}<p>{{ page.description }}</p>{% endif %}
 
