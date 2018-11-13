@@ -1,6 +1,6 @@
 body {
 	background-color: #FBF1DF;
-	font-size: 12pt;
+	font-size: 14pt;
 }
 
 h1,
@@ -64,9 +64,8 @@ header > .container {
 	text-decoration: none;
 }
 
-.lyrics {
+.lyrics > p {
 	white-space: pre-line;
-	word-wrap: break-word;
 }
 
 .indented {
