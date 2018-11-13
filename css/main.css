@@ -1,5 +1,6 @@
 body {
 	background-color: #FBF1DF;
+	font-size: calc((.4em + 2vmin) + (.4em + 2vmax));
 }
 
 h1,
@@ -57,7 +58,6 @@ header > .container {
 .navigation-item > a:hover {
 	font-size: 16px;
 	font-weight: bold;
-	text-shadow: 1px 1px 2px #463C3D;
 	display: block;
 	text-align: center;
 	width: 100%;
