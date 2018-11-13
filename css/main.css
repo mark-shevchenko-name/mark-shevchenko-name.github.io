@@ -1,3 +1,18 @@
+body {
+	background-color: #FBF1DF;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a,
+a:hover {
+	color: #64534B;
+}
+
 header {
 	background-image: url('../img/header.jpg');
 	background-position: center center;
@@ -28,6 +43,17 @@ header > .container {
 	position: absolute;
 	right: 0;
 	bottom: 0;
+}
+
+.navigation {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.navigation-item > a {
+	display: block;
+	width: 100%;
 }
 
 .lyrics {
