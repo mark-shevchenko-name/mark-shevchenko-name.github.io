@@ -10,7 +10,7 @@ h5,
 h6,
 a,
 a:hover {
-	color: #64534B;
+	color: #8A7263;
 }
 
 header {
@@ -47,13 +47,14 @@ header > .container {
 
 .navigation {
 	list-style-type: none;
-	margin: 0;
+	margin: 0 0 1em 0;
 	padding: 0;
 }
 
 .navigation-item > a,
 .navigation-item > a:hover {
 	font-size: 120%;
+	font-weight: bold;
 	display: block;
 	text-align: center;
 	width: 100%;
