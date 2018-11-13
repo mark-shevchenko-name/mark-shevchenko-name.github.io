@@ -52,3 +52,5 @@ layout: lyrics
 В океане корабли, корабли.
 И на каждом капитан, капитан.
 Рулит-правит далеко от земли.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yR-1nvTlvVA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
