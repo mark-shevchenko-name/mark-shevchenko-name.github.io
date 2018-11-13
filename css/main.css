@@ -57,8 +57,7 @@ header > .container {
 
 .navigation-item > a,
 .navigation-item > a:hover {
-	color: #FBF1DF;
-	background-color: #463C3D;
+	border-bottom: 2px solid #463C3D;
 	font-size: 16px;
 	font-weight: bold;
 	display: block;
