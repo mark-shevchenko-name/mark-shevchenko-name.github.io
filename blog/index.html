@@ -9,16 +9,16 @@ title: Журнал
   <p><em>{{ post.excerpt | strip_html | normalize_whitespace | escape }}</em></p>
 {% endfor %}
 
-<ul class="pager">
+<ul class="pagination">
   {% if paginator.previous_page %}
-    <li class="previous"><a href="{{ paginator.previous_page_path }}">Назад</a></li>
+    <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
   {% else %}
-    <li class="previous disabled">Назад</li>
+    <li class="page-item disabled">Назад</li>
   {% endif %}
-    <li>{{ paginator.page }} / {{ paginator.total_pages }}</li>
+    <li class="page-item disabled">{{ paginator.page }} / {{ paginator.total_pages }}</li>
   {% if paginator.next_page %}
-    <li class="next"><a href="{{ paginator.next_page_path }}">Вперёд</a></li>
+    <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Вперёд</a></li>
   {% else %}
-    <li class="next disabled">Вперёд</li>
+    <li class="page-item disabled">Вперёд</li>
   {% endif %}
 </ul>
