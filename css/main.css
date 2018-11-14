@@ -102,7 +102,63 @@ header > .container {
 	position: relative;
 	top: -1em;
 	display: inline-block;
-	content: attr(class);
 	width: 0;
-	color: red;
+	color: #5D5B6A;
 }
+
+.A {
+	content: 'A';
+}
+
+.Am {
+	content: 'Am';
+}
+
+.B {
+	content: 'B';
+}
+
+.Bm {
+	content: 'Bm';
+}
+
+.C {
+	content: 'C';
+}
+
+.Cm {
+	content: 'Cm';
+}
+
+.D {
+	content: 'D';
+}
+
+.Dm {
+	content: 'Dm';
+}
+
+.E {
+	content: 'E';
+}
+
+.Em {
+	content: 'Em';
+}
+
+.F {
+	content: 'F';
+}
+
+.Fm {
+	content: 'Fm';
+}
+
+.G {
+	content: 'G';
+}
+
+.Gm {
+	content: 'Gm';
+}
+
