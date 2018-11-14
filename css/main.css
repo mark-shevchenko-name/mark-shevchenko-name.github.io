@@ -85,20 +85,20 @@ header > .container {
 	margin-left: 2em;
 }
 
-.A:before,
-.Am:before,
-.B:before,
-.Bm:before,
-.C:before,
-.Cm:before,
-.D:before,
-.Dm:before,
-.E:before,
-.Em:before,
-.F:before,
-.Fm:before,
-.G:before,
-.Gm:before {
+.A,
+.Am,
+.B,
+.Bm,
+.C,
+.Cm,
+.D,
+.Dm,
+.E,
+.Em,
+.F,
+.Fm,
+.G,
+.Gm {
 	position: relative;
 	top: -1em;
 	display: inline-block;
@@ -106,58 +106,57 @@ header > .container {
 	color: #1B1BB5;
 }
 
-.A {
+.A:before {
 	content: 'A';
 }
 
-.Am {
+.Am:before {
 	content: 'A\1D4C2';}
 
-.B {
+.B:before {
 	content: 'B';
 }
 
-.Bm {
+.Bm:before {
 	content: 'B\1D4C2';
 }
 
-.C {
+.C:before {
 	content: 'C';
 }
 
-.Cm {
+.Cm:before {
 	content: 'C\1D4C2';
 }
 
-.D {
+.D:before {
 	content: 'D';
 }
 
-.Dm {
+.Dm:before {
 	content: 'D\1D4C2';
 }
 
-.E {
+.E:before {
 	content: 'E';
 }
 
-.Em {
+.Em:before {
 	content: 'E\1D4C2';
 }
 
-.F {
+.F:before {
 	content: 'F';
 }
 
-.Fm {
+.Fm:before {
 	content: 'F\1D4C2';
 }
 
-.G {
+.G:before {
 	content: 'G';
 }
 
-.Gm {
+.Gm:before {
 	content: 'G\1D4C2';
 }
-
