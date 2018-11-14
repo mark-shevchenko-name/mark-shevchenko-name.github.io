@@ -85,25 +85,25 @@ header > .container {
 	margin-left: 2em;
 }
 
-.A,
-.Am,
-.B,
-.Bm,
-.C,
-.Cm,
-.D,
-.Dm,
-.E,
-.Em,
-.F,
-.Fm,
-.G,
-.Gm {
+.A:before,
+.Am:before,
+.B:before,
+.Bm:before,
+.C:before,
+.Cm:before,
+.D:before,
+.Dm:before,
+.E:before,
+.Em:before,
+.F:before,
+.Fm:before,
+.G:before,
+.Gm:before {
 	position: relative;
 	top: -1em;
 	display: inline-block;
 	width: 0;
-	color: #5D5B6A;
+	color: #1B1BB5;
 }
 
 .A {
@@ -111,15 +111,14 @@ header > .container {
 }
 
 .Am {
-	content: 'Am';
-}
+	content: 'A\1D4C2';}
 
 .B {
 	content: 'B';
 }
 
 .Bm {
-	content: 'Bm';
+	content: 'B\1D4C2';
 }
 
 .C {
@@ -127,7 +126,7 @@ header > .container {
 }
 
 .Cm {
-	content: 'Cm';
+	content: 'C\1D4C2';
 }
 
 .D {
@@ -135,7 +134,7 @@ header > .container {
 }
 
 .Dm {
-	content: 'Dm';
+	content: 'D\1D4C2';
 }
 
 .E {
@@ -143,7 +142,7 @@ header > .container {
 }
 
 .Em {
-	content: 'Em';
+	content: 'E\1D4C2';
 }
 
 .F {
@@ -151,7 +150,7 @@ header > .container {
 }
 
 .Fm {
-	content: 'Fm';
+	content: 'F\1D4C2';
 }
 
 .G {
@@ -159,6 +158,6 @@ header > .container {
 }
 
 .Gm {
-	content: 'Gm';
+	content: 'G\1D4C2';
 }
 
