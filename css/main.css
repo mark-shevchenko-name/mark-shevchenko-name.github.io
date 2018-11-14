@@ -79,6 +79,7 @@ header > .container {
 
 .lyrics > p {
 	white-space: pre-line;
+	line-height: 144%;
 }
 
 .indented {
@@ -100,10 +101,11 @@ header > .container {
 .G,
 .Gm {
 	position: relative;
-	top: -1em;
+	top: -0.9em;
 	display: inline-block;
 	width: 0;
-	color: #1B1BB5;
+	color: #CC6763;
+	font-size: 80%;
 }
 
 .A:before {
