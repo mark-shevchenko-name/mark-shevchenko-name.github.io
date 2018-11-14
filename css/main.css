@@ -84,3 +84,25 @@ header > .container {
 .indented {
 	margin-left: 2em;
 }
+
+.A,
+.Am,
+.B,
+.Bm,
+.C,
+.Cm,
+.D,
+.Dm,
+.E,
+.Em,
+.F,
+.Fm,
+.G,
+.Gm {
+	position: relative;
+	top: -1em;
+	display: inline-block;
+	content: attr(class);
+	width: 0;
+	color: red;
+}

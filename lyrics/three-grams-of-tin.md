@@ -4,10 +4,10 @@ layout: lyrics
 
 ## Три грамма олова
 
-Сделаны люди из разной материи,
-В каждом свои проступают черты.
-В ком то есть стёклышки для бижутерии,
-В ком то есть олово для простоты.
+Сде<span class="Am"></span>ланы лю<span class="G"></span>ди из ра<span class="C"></span>зной ма<span class="F"></span>терии,
+В ка<span class="Dm"></span>ждом сво<span class="Am"></span>и про<span class="B7"></span>ступают че<span class="Em"></span>рты.
+В ко<span class="Am"></span>м то есть стё<span class="G"></span>клышки для<span class="C"></span> бижуте<span class="F"></span>рии,
+В ко<span class="Dm"></span>м то есть о<span class="Am"></span>лово для<span class="E"></span> про<span class="Am"></span>стоты.
 
 **Припев:**
 Всё в нас намешано: ангелы, звери и
