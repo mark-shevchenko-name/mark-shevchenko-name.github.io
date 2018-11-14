@@ -77,6 +77,15 @@ header > .container {
 	margin-bottom: 2em;
 }
 
+.blog-post {
+	margin-bottom: 1em;
+}
+
+.blog-post > h3,
+.blog-post > p {
+	margin-bottom: 0;
+}
+
 .lyrics > p {
 	white-space: pre-line;
 	line-height: 144%;
