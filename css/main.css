@@ -88,6 +88,7 @@ header > .container {
 
 .A,
 .Am,
+.Bb,
 .B,
 .Bm,
 .B7,
@@ -114,14 +115,19 @@ header > .container {
 }
 
 .Am:before {
-	content: 'A\1D4C2';}
+	content: 'A\2098';
+}
+
+.Bb:before {
+    content: 'B\266D';
+}
 
 .B:before {
 	content: 'B';
 }
 
 .Bm:before {
-	content: 'B\1D4C2';
+	content: 'B\2098';
 }
 
 .B7:before {
@@ -133,7 +139,7 @@ header > .container {
 }
 
 .Cm:before {
-	content: 'C\1D4C2';
+	content: 'C\2098';
 }
 
 .D:before {
@@ -141,7 +147,7 @@ header > .container {
 }
 
 .Dm:before {
-	content: 'D\1D4C2';
+	content: 'D\2098';
 }
 
 .E:before {
@@ -149,7 +155,7 @@ header > .container {
 }
 
 .Em:before {
-	content: 'E\1D4C2';
+	content: 'E\2098';
 }
 
 .F:before {
@@ -157,7 +163,7 @@ header > .container {
 }
 
 .Fm:before {
-	content: 'F\1D4C2';
+	content: 'F\2098';
 }
 
 .G:before {
@@ -165,5 +171,5 @@ header > .container {
 }
 
 .Gm:before {
-	content: 'G\1D4C2';
+	content: 'G\2098';
 }
