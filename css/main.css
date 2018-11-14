@@ -56,7 +56,7 @@ header > .container {
 
 .navigation {
 	list-style-type: none;
-	margin: 0 0 16px 0;
+	margin: 0 0 32px 0;
 	padding: 0;
 }
 
@@ -64,7 +64,7 @@ header > .container {
 .navigation-item > a:hover {
 	border-bottom: 2px solid #463C3D;
 	font-size: 16px;
-	padding: 8px 0 8px 0;
+	padding: 4px 0;
 	font-weight: bold;
 	display: block;
 	text-align: center;
