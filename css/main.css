@@ -90,6 +90,7 @@ header > .container {
 .Am,
 .B,
 .Bm,
+.B7,
 .C,
 .Cm,
 .D,
@@ -121,6 +122,10 @@ header > .container {
 
 .Bm:before {
 	content: 'B\1D4C2';
+}
+
+.B7:before {
+	content: 'B\2087';
 }
 
 .C:before {
