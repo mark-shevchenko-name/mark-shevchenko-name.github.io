@@ -5,22 +5,22 @@ layout: lyrics
 ## Потерял любимую
 
 <span class="Em"></span>Расскажу<span class="D"></span> я, расскажу<span class="Am"></span>
-Про свою<span class="Hm"></span> беду:
+Про свою<span class="Bm"></span> беду:
 <span class="Em"></span>Потеря<span class="D"></span>л любимую<span class="Am"></span>.
-Ищу, не<span class="Hm"></span> найду.
+Ищу, не<span class="Bm"></span> найду.
 
 <span class="Em"></span>Сто морей изборозди<span class="D"></span>л,
 Сто доро<span class="Am"></span>г прошёл —
-Не<span class="Hm"></span> нашёл.
+Не<span class="Bm"></span> нашёл.
 
 <span class="Em"></span>Я во все гла<span class="D"></span>за гляде<span class="Am"></span>л —
-Изгляде<span class="Hm"></span>л я их.
+Изгляде<span class="Bm"></span>л я их.
 <span class="Em"></span>Звал, кри<span class="D"></span>чал любиму<span class="Am"></span>ю —
-Видно, го<span class="Hm"></span>лос тих.
+Видно, го<span class="Bm"></span>лос тих.
 
 <span class="Em"></span>Обыскал я, осмотре<span class="Dm"></span>л
 Целый белый све<span class="Am"></span>т —
-То<span class="Hm"></span>лку нет.
+То<span class="Bm"></span>лку нет.
 
 **Припев:**
 <span class="Am"></span>Как же мне<span class="D"></span>, моя<span class="G"></span> о<span class="C"></span>тра<span class="Em"></span>да<span class="Am"></span>,
