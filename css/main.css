@@ -63,8 +63,8 @@ header > .container {
 .navigation-item > a,
 .navigation-item > a:hover {
 	border-bottom: 2px solid #463C3D;
-	font-size: 16px;
-	padding: 4px 0;
+	font-size: 10pt;
+	padding: 4pt 0;
 	font-weight: bold;
 	display: block;
 	text-align: center;
@@ -73,7 +73,7 @@ header > .container {
 }
 
 .breadcrumbs {
-	font-size: 16px;
+	font-size: 10pt;
 	margin-bottom: 2em;
 }
 
@@ -116,7 +116,6 @@ header > .container {
 	display: inline-block;
 	width: 0;
 	color: #CC6763;
-	font-size: 80%;
 }
 
 .A:before {
