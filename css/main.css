@@ -78,6 +78,21 @@ header > .container {
 	margin-bottom: 2em;
 }
 
+.video-wrapper {
+	position: relative;
+	padding-bottom: 56.25% /* 16:9 */;
+	padding-top: 25px;
+	height: 0;
+}
+
+.video-wrapper > iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
 .blog-post {
 	margin-bottom: 1em;
 }
@@ -104,6 +119,7 @@ header > .container {
 .B,
 .B7,
 .Bm,
+.Bm7,
 .C,
 .Cm,
 .Cmaj7,
@@ -158,6 +174,10 @@ header > .container {
 
 .Bm:before {
 	content: 'B\2098';
+}
+
+.Bm7:before {
+	content: 'B\2098\2087';
 }
 
 .C:before {

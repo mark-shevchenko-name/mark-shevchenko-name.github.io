@@ -73,4 +73,6 @@ layout: lyrics
 Никогда<span class="C"></span> от меня<span class="B7"></span> не уйдёт<span class="Em"></span>.
 {: .indented}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tjtH9JOL5GQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/tjtH9JOL5GQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
