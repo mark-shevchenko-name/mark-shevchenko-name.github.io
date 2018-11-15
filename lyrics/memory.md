@@ -4,25 +4,25 @@ layout: lyrics
 
 ## Память
 
-Я бы стёр до дыр твоё имя спиртом
-С обветшавших сердечных мышц.
-Я б сбежал от тебя далеко лабиринтом
-Из бесчисленных женских лиц.
+Я<span class="Em"></span> бы стёр до дыр твоё и<span class="A"></span>мя спиртом
+С обвет<span class="C"></span>шавших сердечных мы<span class="Em"></span>шц.
+Я б сбе<span class="Em"></span>жал от тебя да<span class="A"></span>леко лабиринтом
+Из бесчис<span class="C"></span>ленных женских ли<span class="Em"></span>ц.
 
-Я бы раненой птицей, чтобы забыться,
-Сорвался в крутое пике.
-Я б оставил тебя пустою страницей,
-Дымом вчерашним, следом на песке.
+Я бы<span class="Em"></span> раненой птицей, что<span class="A"></span>бы забыться,
+Сорвал<span class="C"></span>ся в крутое пике<span class="Em"></span>.
+Я б ос<span class="Em"></span>тавил тебя пусто<span class="A"></span>ю страницей,
+Дымом<span class="C"></span> вчерашним, следом на песке<span class="Em"></span>.
 
 **Припев:**
-Я сижу и молчу четвёртые сутки,
-Пью чай, смотрю в потолок…
+Я<span class="C"></span> сижу и молчу четвёр<span class="G"></span>тые сутки,
+Пью ча<span class="A"></span>й, смотрю в пото<span class="B7"></span>лок…
 {: .indented}
 
-Память, злая подруга,
-Нежданно подскажет, что мы живём друг без друга.
-Память, злая подруга,
-А добрых подруг у меня и нет.
+Па<span class="Em"></span>мять, злая подру<span class="A"></span>га,
+Нежданно подска<span class="D"></span>жет, что мы живё<span class="G"></span>м друг без друга.
+Па<span class="Em"></span>мять, злая подру<span class="A"></span>га,
+А добрых подру<span class="C"></span>г у меня<span class="B7"></span> и не<span class="Em"></span>т.
 {: .indented}
 
 Я б вынул тебя из себя пинцетом
@@ -61,16 +61,16 @@ layout: lyrics
 Время капает через меня…
 {: .indented}
 
-Память, злая подруга,
-Нежданно подскажет, что мы живём друг без друга.
-Память, злая подруга,
-Дверь прикроет и чаю нальёт.
+Па<span class="Em"></span>мять, злая подру<span class="A"></span>га,
+Нежданно подска<span class="D"></span>жет, что мы живё<span class="G"></span>м друг без друга.
+Па<span class="Em"></span>мять, злая подру<span class="A"></span>га,
+Дверь прикро<span class="D"></span>ет и ча<span class="G"></span>ю нальёт.
 {: .indented}
 
-Память, злая подруга,
-В сотый раз мне всё расскажет по кругу.
-Память, злая подруга,
-Никогда от меня не уйдёт.
+Па<span class="Em"></span>мять, злая подру<span class="A"></span>га,
+В со<span class="D"></span>тый раз мне всё расскажет по<span class="G"></span> кругу.
+Па<span class="Em"></span>мять, злая подру<span class="A"></span>га,
+Никогда<span class="C"></span> от меня<span class="B7"></span> не уйдёт<span class="Em"></span>.
 {: .indented}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tjtH9JOL5GQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

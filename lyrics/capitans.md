@@ -4,17 +4,17 @@ layout: lyrics
 
 ## Капитаны
 
-А под небом океан, океан.
-В океане корабли, корабли.
-И на каждом капитан, капитан.
-Рулит-правит далеко от земли.
+А под не<span class="Am"></span>бом океа<span class="E"></span>н, океа<span class="Am"></span>н.
+В океа<span class="G"></span>не корабли, кора<span class="C"></span>бли.
+И на ка<span class="Gm11"></span>ждом капита<span class="A7"></span>н, капита<span class="Dm7"></span>н.
+Рулит-пра<span class="Am"></span>вит далеко<span class="E"></span> от земли<span class="Am"></span>.
 
-В океане то ли зыбь, то ли рябь,
-Расстилается кругом тьма-туман.
-То ли просто предрассветная хлябь,
-То ли грянет скоро шторм-ураган.
+В океа<span class="Am"></span>не то ли зы<span class="E"></span>бь, то ли ря<span class="Am"></span>бь,
+Расстила<span class="G"></span>ется кругом тьма-тума<span class="C"></span>н.
+То ли про<span class="Gm11"></span>сто предрассве<span class="A7"></span>тная хля<span class="Dm7"></span>бь,
+То ли<span class="Am"></span> грянет скоро што<span class="E"></span>рм-урага<span class="Am"></span>н.
 
-А может грянет шторм-ураган.
+А<span class="B-flat"></span> может гря<span class="B7"></span>нет што<span class="E"></span>рм-урага<span class="Am"></span>н.
 {: .indented}
 
 Если буря налетит по волнам, —
