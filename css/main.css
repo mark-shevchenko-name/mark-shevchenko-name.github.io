@@ -99,12 +99,14 @@ header > .container {
 .A,
 .A7,
 .Am,
+.Am9,
 .B-flat,
 .B,
 .B7,
 .Bm,
 .C,
 .Cm,
+.Cmaj7,
 .D,
 .Dm,
 .Dm7,
@@ -116,6 +118,7 @@ header > .container {
 .Fm,
 .F-sharp-m6,
 .G,
+.G7,
 .Gm,
 .Gm11 {
 	position: relative;
@@ -135,6 +138,10 @@ header > .container {
 
 .Am:before {
 	content: 'A\2098';
+}
+
+.Am9:before {
+	content: 'A\2098\2089';
 }
 
 .B-flat:before {
@@ -159,6 +166,10 @@ header > .container {
 
 .Cm:before {
 	content: 'C\2098';
+}
+
+.Cmaj7:before {
+	content: 'C\2098\\2090\2087\2C7C';
 }
 
 .D:before {
@@ -203,6 +214,10 @@ header > .container {
 
 .G:before {
 	content: 'G';
+}
+
+.G7:before {
+	content: 'G\2087';
 }
 
 .Gm:before {

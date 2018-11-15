@@ -4,21 +4,21 @@ layout: lyrics
 
 ## Горными тропами
 
-Не умереть нам в постели — дорога зовёт,
-А лучше дороги и нет ничего.
-По непонятной причине, нам надо вперёд,
-Пусть даже вперёд тяжелее всего.
+Не<span class="Am"></span> умереть нам в по<span class="Am9"></span>стели — до<span class="Am"></span>рога зовё<span class="Am9"></span>т,
+А лучше доро<span class="Dm"></span>ги и<span class="Dm7"></span> не<span class="Dm"></span>т ничего<span class="Dm7"></span>.
+По не<span class="G"></span>понятной при<span class="G7"></span>чине, на<span class="G"></span>м надо вперё<span class="G7"></span>д,
+Пу<span class="C"></span>сть да<span class="Cmaj7"></span>же вперёд тяже<span class="C"></span>лее все<span class="Cmaj7"></span>го.
 
-Мы, друг, давно уж не дышим — всё хрипы да свист.
-Помалу бредём, белый свет матеря.
-Но, если ты меня спросишь: «а хочешь ли вниз?»,
-Отвечу, что нет, здесь счастливее я.
+Мы<span class="Am"></span>, друг, давно уж не ды<span class="Am9"></span>шим — всё хри<span class="Am"></span>пы да сви<span class="Am9"></span>ст.
+Помалу<span class="Dm"></span> бредё<span class="Dm7"></span>м, белы<span class="Dm"></span>й свет матеря<span class="Dm7"></span>.
+Но, если<span class="G"></span> ты меня спро<span class="G7"></span>сишь: «а хо<span class="G"></span>чешь ли вни<span class="G7"></span>з?»,
+О<span class="C"></span>твечу, что не<span class="Cmaj7"></span>т, зде<span class="C"></span>сь счастливее я<span class="Cmaj7"></span>.
 
 **Припев:**
-Здесь все клиенты, контрагенты, документы, алименты — позади,
-Здесь где-то между облаками есть тропинка под ногами — знай, иди.
-Здесь я не с маленькой квартирой, а со всем огромным миром наравне.
-Здесь обдувает свежим ветром, а не кондиционером на стене.
+З<span class="Dm"></span>десь все клиенты, контрагенты, документы, алименты — поза<span class="G"></span>ди,
+З<span class="C"></span>десь где-то между облаками есть тро<span class="Em"></span>пинка под ногами — знай, и<span class="Am"></span>ди.
+З<span class="Dm"></span>десь я не с маленькой квартирой, а со всем огромным миром нара<span class="F"></span>вне.
+З<span class="Bm7"></span>десь обдувает свежим ветром, а не кондиционером на сте<span class="E"></span>не.
 {: .indented}
  
 В горах не быстро, не гладко — шаги тяжелы,

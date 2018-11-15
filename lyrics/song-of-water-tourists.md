@@ -4,22 +4,22 @@ layout: lyrics
 
 ## Песня туристов-водников
 
-Идём к далёкой цели —
-Наперевес весло —
-Мы не туда хотели,
-Где сухо и тепло.
+Идё<span class="Am"></span>м к далёкой цели —
+На<span class="C"></span>перевес весло —
+Мы<span class="F"></span> не туда хоте<span class="C"></span>ли,
+Где су<span class="Dm"></span>хо и тепло<span class="E"></span>.
 
-Вода в лицо и спину —
-Такой уж здесь уют.
-Нас пледы и перины
-Пусть дома подождут.
+Вода<span class="Am"></span> в лицо и спину —
+Та<span class="C"></span>кой уж здесь уют.
+На<span class="F"></span>с пледы и пе<span class="C"></span>рины
+Пусть дома<span class="E"></span> подожду<span class="Am"></span>т.
 
-И надо нам всего-то,
-Пока река несёт,
-Чтоб нас за поворотом
-Ждал новый поворот.
-Нас за поворотом
-Ждал новый поворот.
+И на<span class="Dm"></span>до нам всего<span class="G"></span>-то,
+Пока<span class="C"></span> река несё<span class="Am"></span>т,
+Чтоб на<span class="B-flat"></span>с за поворо<span class="F"></span>том
+Жда<span class="E"></span>л новый поворо<span class="Am"></span>т.
+На<span class="Dm"></span>с за поворо<span class="Am"></span>том
+Жда<span class="E"></span>л новый поворо<span class="Am"></span>т.
 {: .indented}
 
 С водой шутить не нужно,
