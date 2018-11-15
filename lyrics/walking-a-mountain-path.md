@@ -5,7 +5,7 @@ layout: lyrics
 ## Горными тропами
 
 Не<span class="Am"></span> умереть нам в по<span class="Am9"></span>стели — до<span class="Am"></span>рога зовё<span class="Am9"></span>т,
-А лучше доро<span class="Dm"></span>ги и<span class="Dm7"></span> не<span class="Dm"></span>т ничего<span class="Dm7"></span>.
+А лу<span class="Dm"></span>чше дороги и<span class="Dm7"></span> не<span class="Dm"></span>т ничего<span class="Dm7"></span>.
 По не<span class="G"></span>понятной при<span class="G7"></span>чине, на<span class="G"></span>м надо вперё<span class="G7"></span>д,
 Пу<span class="C"></span>сть да<span class="Cmaj7"></span>же вперёд тяже<span class="C"></span>лее все<span class="Cmaj7"></span>го.
 

@@ -169,7 +169,7 @@ header > .container {
 }
 
 .Cmaj7:before {
-	content: 'C\2098\\2090\2087\2C7C';
+	content: 'C\2098\2090\2C7C\2087';
 }
 
 .D:before {
