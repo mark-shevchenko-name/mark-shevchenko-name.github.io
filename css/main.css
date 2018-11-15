@@ -97,11 +97,12 @@ header > .container {
 }
 
 .A,
+.A7
 .Am,
 .B-flat,
 .B,
-.Bm,
 .B7,
+.Bm,
 .C,
 .Cm,
 .D,
@@ -128,11 +129,15 @@ header > .container {
 	content: 'A';
 }
 
+.A7:before {
+	content: 'A\2087';
+}
+
 .Am:before {
 	content: 'A\2098';
 }
 
-.B-flat {
+.B-flat:before {
     content: 'B\266D';
 }
 
@@ -140,12 +145,12 @@ header > .container {
 	content: 'B';
 }
 
-.Bm:before {
-	content: 'B\2098';
-}
-
 .B7:before {
 	content: 'B\2087';
+}
+
+.Bm:before {
+	content: 'B\2098';
 }
 
 .C:before {
@@ -162,6 +167,10 @@ header > .container {
 
 .Dm:before {
 	content: 'D\2098';
+}
+
+.Dm7:before {
+	content: 'D\2098\2087';
 }
 
 .E:before {
@@ -188,7 +197,7 @@ header > .container {
 	content: 'F\2098';
 }
 
-.F-sharp-m6 {
+.F-sharp-m6:before {
 	content: 'F\266F\2098\2086';
 }
 
