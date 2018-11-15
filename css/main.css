@@ -62,7 +62,8 @@ header > .container {
 
 .navigation-item > a,
 .navigation-item > a:hover {
-	border-bottom: 2px solid #463C3D;
+    color: #CC6763;
+	border-bottom: 2px solid #CC6763;
 	font-size: 12pt;
 	padding: 6pt 0;
 	font-weight: bold;
@@ -97,7 +98,7 @@ header > .container {
 
 .A,
 .Am,
-.Bb,
+.B-flat,
 .B,
 .Bm,
 .B7,
@@ -105,12 +106,17 @@ header > .container {
 .Cm,
 .D,
 .Dm,
+.Dm7,
 .E,
 .Em,
+.Em6,
+.Em7,
 .F,
 .Fm,
+.F-sharp-m6,
 .G,
-.Gm {
+.Gm,
+.Gm11 {
 	position: relative;
 	top: -0.9em;
 	display: inline-block;
@@ -126,7 +132,7 @@ header > .container {
 	content: 'A\2098';
 }
 
-.Bb:before {
+.B-flat {
     content: 'B\266D';
 }
 
@@ -166,6 +172,14 @@ header > .container {
 	content: 'E\2098';
 }
 
+.Em6 {
+	content: 'E\2098\2086';
+}
+
+.Em7 {
+	content: 'E\2098\2087';
+}
+
 .F:before {
 	content: 'F';
 }
@@ -174,10 +188,18 @@ header > .container {
 	content: 'F\2098';
 }
 
+.F-sharp-m6 {
+	content: 'F\266F\2098\2086';
+}
+
 .G:before {
 	content: 'G';
 }
 
 .Gm:before {
 	content: 'G\2098';
+}
+
+.Gm11:before {
+	content: 'G\2098\2081\2081';
 }
