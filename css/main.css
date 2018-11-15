@@ -63,8 +63,8 @@ header > .container {
 .navigation-item > a,
 .navigation-item > a:hover {
 	border-bottom: 2px solid #463C3D;
-	font-size: 10pt;
-	padding: 4pt 0;
+	font-size: 12pt;
+	padding: 6pt 0;
 	font-weight: bold;
 	display: block;
 	text-align: center;
@@ -73,7 +73,7 @@ header > .container {
 }
 
 .breadcrumbs {
-	font-size: 10pt;
+	font-size: 12pt;
 	margin-bottom: 2em;
 }
 
@@ -88,7 +88,7 @@ header > .container {
 
 .lyrics > p {
 	white-space: pre-line;
-	line-height: 144%;
+	line-height: 176%;
 }
 
 .indented {
