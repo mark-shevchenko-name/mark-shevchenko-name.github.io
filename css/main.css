@@ -46,7 +46,7 @@ header > .container {
 .header-title:hover,
 .header-title {
 	font-size: 32px;
-	color: white;
+	color: #FBF1DF;
 	text-shadow: 1px 1px 2px #463C3D;
 	text-decoration: none;
 	position: absolute;
@@ -181,11 +181,11 @@ header > .container {
 	content: 'E\2098';
 }
 
-.Em6 {
+.Em6:before {
 	content: 'E\2098\2086';
 }
 
-.Em7 {
+.Em7:before {
 	content: 'E\2098\2087';
 }
 
