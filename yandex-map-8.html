@@ -1,0 +1,52 @@
+﻿<!DOCTYPE html>
+<html lang="ru-RU" class="h-100">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1"> 
+    <meta name="description" content="Вычисляем стоимость маршрута.">
+    <title>8 рублей километр</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+  </head>
+  <body class="h-100">
+    <div class="container-fluid h-100">
+      <div class="row justify-content-center h-100">
+        <div class="col-2 h-100">
+          <p><small>Укажите начальный и конечный адрес на карте справа.</small></p>
+          <p><small>Длина маршрута:</small>&nbsp;<span id="distance">&mdash;</span></p>
+          <p><small>Стоимость:</small>&nbsp;<span id="price">&mdash;</span></p>
+        </div>
+        <div id="map" class="col-10 h-100"></div>
+      </div>
+    </div>
+    <script defer src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script defer src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://api-maps.yandex.ru/2.1/?lang=ru_RU" type="text/javascript"></script>
+    <script type="text/javascript">
+    ymaps.ready(function() {
+      var moscowMap = new ymaps.Map('map',
+      {
+        center: [55.76, 37.64],
+        zoom: 10,
+        controls: ['routePanelControl']
+      });
+
+      var control = moscowMap.controls.get('routePanelControl');
+      control.routePanel.state.set({ type: 'auto' });
+      control.options.set({ maxWidth: '320px' });
+
+      var multiRoutePromise = control.routePanel.getRouteAsync();
+      multiRoutePromise.then(function(multiRoute) {
+        multiRoute.model.events.add('requestsuccess', function() {
+          var activeRoute = multiRoute.getActiveRoute();
+          if (activeRoute) {
+            $('#distance').value(activeRoute.properties.get('distance'));
+            $('#price').value(activeRoute.properties.get('distance') * 8);
+          }
+        });
+      });
+    });
+    </script>
+  </body>
+</html>
