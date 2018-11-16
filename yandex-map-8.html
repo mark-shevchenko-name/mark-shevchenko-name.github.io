@@ -45,8 +45,8 @@
             var distanceKm = Math.round(distance/100)/10;
             var price = Math.round(distance * 8/10000) * 10;
 
-            $('#distance').text(distanceKm);
-            $('#price').text(price);
+            $('#distance').text(distanceKm + 'км');
+            $('#price').text(price + 'руб');
           }
         });
       });
