@@ -13,8 +13,8 @@
       <div class="row justify-content-center h-100">
         <div class="col-2 h-100">
           <p><small>Укажите начальный и конечный адрес на карте справа.</small></p>
-          <p><small>Длина маршрута:</small>&nbsp;<span id="distance">&mdash;</span></p>
-          <p><small>Стоимость:</small>&nbsp;<span id="price">&mdash;</span></p>
+          <p><small>Длина маршрута:</small>&nbsp;<strong id="distance">&mdash;</strong></p>
+          <p><small>Стоимость:</small>&nbsp;<strong id="price">&mdash;</strong></p>
         </div>
         <div id="map" class="col-10 h-100"></div>
       </div>
@@ -41,8 +41,8 @@
         multiRoute.model.events.add('requestsuccess', function() {
           var activeRoute = multiRoute.getActiveRoute();
           if (activeRoute) {
-            $('#distance').value(activeRoute.properties.get('distance'));
-            $('#price').value(activeRoute.properties.get('distance') * 8);
+            $('#distance').text(activeRoute.properties.get('distance'));
+            $('#price').text(activeRoute.properties.get('distance') * 8);
           }
         });
       });
