@@ -48,5 +48,5 @@ layout: lyrics
 Да выбора иметь мне не дано.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-US_VEag_0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/-US_VEag_0E" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
