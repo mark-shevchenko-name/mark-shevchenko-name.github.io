@@ -41,11 +41,12 @@
         multiRoute.model.events.add('requestsuccess', function() {
           var activeRoute = multiRoute.getActiveRoute();
           if (activeRoute) {
-            var distance = activeRoute.properties.get('distance');
-            console.log(distance);
-            //$('#distance').text('d');
+            var distance = activeRoute.properties.get('distance').value;
+            var distanceKm = Math.round(distance/100)/10;
+            var price = Math.round(distance * 8/10000) * 10;
 
-            //$('#price').text(activeRoute.properties.get('distance') * 8);
+            $('#distance').text(distanceKm);
+            $('#price').text(price);
           }
         });
       });
