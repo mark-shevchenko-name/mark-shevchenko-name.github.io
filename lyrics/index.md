@@ -4,7 +4,7 @@ layout: main
 
 ## Стихи, песни
 
-[Три грамма олова](three-grams-of-tin.md)
+[Доброе слово](good-word.md)
 
 [Потерял любимую](lost-loved.md)
 
