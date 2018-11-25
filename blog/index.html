@@ -18,15 +18,23 @@ title: Журнал
 <nav>
   <ul class="pagination justify-content-center">
     {% if paginator.previous_page %}
-      <li class="page-item"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
+    <li class="page-item"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
     {% else %}
-      <li class="page-item disabled"><a class="page-link" href="{{ paginator.previous_page_path }}">Назад</a></li>
+    <li class="page-item disabled"><a href="{{ paginator.previous_page_path }}" class="page-link">Назад</a></li>
     {% endif %}
-      <li class="page-item disabled">{{ paginator.page }} / {{ paginator.total_pages }}</li>
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+    <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+      {% else %}
+    <li class="page-item"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+      {% endif %}
+    {% endfor %}
+
     {% if paginator.next_page %}
-      <li class="page-item"><a class="page-link" href="{{ paginator.next_page_path }}">Вперёд</a></li>
+    <li class="page-item"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
     {% else %}
-      <li class="page-item disabled"><a class="page-link" href="{{ paginator.next_page_path }}">Вперёд</a></li>
+    <li class="page-item disabled"><a href="{{ paginator.next_page_path }}" class="page-link">Вперёд</a></li>
     {% endif %}
   </ul>
 </nav>
