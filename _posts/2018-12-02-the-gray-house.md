@@ -4,7 +4,7 @@ date: "2018-11-15 18:00:00 +0300"
 excerpt: Рецензия на книгу Мариам Петросян.
 ---
 
-<a href="http://livebooks.ru/goods/dom_v_kotorom_jpg/" style="float: left; margin-right: 2em"><img src="http://livebooks.ru/i/goods/dom_v_kotorom_jpg-cover.jpg" alt="Дом, в котором&hellip;" /></a> Закончил читать большой роман, почти тысяча страниц. Читал около трёх недель, что для меня долго.
+<a href="http://livebooks.ru/goods/dom_v_kotorom_jpg/" style="float: left; margin-right: 1em"><img src="http://livebooks.ru/i/goods/dom_v_kotorom_jpg-cover.jpg" alt="Дом, в котором&hellip;" /></a> Закончил читать большой роман, почти тысяча страниц. Читал около трёх недель, что для меня долго.
 
 Автор Мариам Петросян, я про эту писательницу раньше не слышал. Недавно решил ознакомиться с современной
 русской литературой, и составил список книг, которые награждали в последнее время. Об этой книге я не пожалел.
