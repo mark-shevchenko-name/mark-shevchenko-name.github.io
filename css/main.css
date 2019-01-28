@@ -43,6 +43,11 @@ header > .container {
 	position: relative;
 }
 
+blockquote {
+	margin-left: 10%;
+	border-left: 1px solid #463C3D
+}
+
 .header-title:hover,
 .header-title {
 	font-size: 32px;
