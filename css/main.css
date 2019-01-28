@@ -44,7 +44,8 @@ header > .container {
 }
 
 blockquote {
-	margin-left: 10%;
+	margin-left: 2em;
+	padding-left: 2em;
 	border-left: 1px solid #463C3D
 }
 
