@@ -15,6 +15,7 @@ title: Журнал
 {% endfor %}
 </div>
 
+{% if paginator.total_pages > 1 %}
 <nav>
   <ul class="pagination justify-content-center">
     {% if paginator.previous_page %}
@@ -26,6 +27,8 @@ title: Журнал
     {% for page in (1..paginator.total_pages) %}
       {% if page == paginator.page %}
     <li class="page-item active"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
+      {% elseif page == 1 %}
+    <li class="page-item"><a href="{{ paginator.previous_page_path | relative_url }}" class="page-link">{{ page }}</a></li>
       {% else %}
     <li class="page-item"><a href="{{ site.paginate_path | relative_url | replace: ':num', page }}" class="page-link">{{ page }}</a></li>
       {% endif %}
@@ -38,3 +41,4 @@ title: Журнал
     {% endif %}
   </ul>
 </nav>
+{% endif %}
