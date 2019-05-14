@@ -96,7 +96,7 @@ excerpt: "Почему семь нот, семь чудес света, семь
 Музыка из пяти нот чуть менее разнообразна, но, как показал вокалист Бобби Макферрин, достаточно естественна для человека:
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/UawHTvQNQbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ne6tB2KiZuk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Можно ли продолжать процесс деления октавы интервалами? Да. Пифагорейцы, создавшие первоначальную шкалу из семи нот, быстро обнаружили её ограничения. Они добавили в октаву пять новых звуков, но не дали им обозначений. Названия этих звуков образуются от названий ближайших нот&nbsp;&mdash; *Фа-диез*, *Ля-бемоль*.
