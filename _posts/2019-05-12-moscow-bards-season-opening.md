@@ -14,7 +14,10 @@ excerpt: "Не успели закрыть зимний сезон, как от�
 
 И несколько фото:
 
-<img src="https://secure.meetupstatic.com/photos/event/d/d/1/9/highres_481316601.jpeg" alt="">
-<img src="https://secure.meetupstatic.com/photos/event/d/d/2/1/highres_481316609.jpeg" alt="">
-<img src="https://secure.meetupstatic.com/photos/event/d/d/4/f/highres_481316655.jpeg" alt="">
-<img src="https://secure.meetupstatic.com/photos/event/d/d/5/1/highres_481316657.jpeg" alt="">
+![Открытие летнего сезона 2019](https://secure.meetupstatic.com/photos/event/d/d/1/9/highres_481316601.jpeg){: .w-100}
+
+![Открытие летнего сезона 2019](https://secure.meetupstatic.com/photos/event/d/d/2/1/highres_481316609.jpeg){: .w-100}
+
+![Открытие летнего сезона 2019](https://secure.meetupstatic.com/photos/event/d/d/4/f/highres_481316655.jpeg){: .w-100}
+
+![Открытие летнего сезона 2019](https://secure.meetupstatic.com/photos/event/d/d/5/1/highres_481316657.jpeg){: .w-100}
