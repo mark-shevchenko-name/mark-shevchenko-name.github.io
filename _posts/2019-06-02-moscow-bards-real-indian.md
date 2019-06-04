@@ -22,4 +22,6 @@ excerpt: "Отмечаем наличие души у индейцев."
 
 ![Настоящему индейцу](https://secure.meetupstatic.com/photos/event/c/4/2/5/highres_481910213.jpeg){: .w-100}
 
+![Настоящему индейцу](https://secure.meetupstatic.com/photos/event/7/e/0/5/highres_481952261.jpeg){: .w-100}
+
 Видео будет позже.
