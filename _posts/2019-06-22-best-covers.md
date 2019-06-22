@@ -20,7 +20,7 @@ excerpt: "Немного о супер-музыкантах."
   <iframe width="560" height="315" src="https://www.youtube.com/embed/jRMHp7_kPec" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Наконец, коллектив молодых парней и девушек, перепевших на четыре голоса неподражаему Адель. Время от времени переслушиваю с большим удовольствием.
+Наконец, коллектив молодых парней и девушек, перепевших на четыре голоса неподражаемую Адель. Хорошо поют!
 
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nz7SMVYMT6k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
