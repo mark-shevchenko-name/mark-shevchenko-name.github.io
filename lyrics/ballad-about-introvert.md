@@ -59,3 +59,7 @@ layout: lyrics
 А ты в кургузом пиджачке, заношенным до дыр.
 И денег нет, и женщин нет — трагедия какая,
 Нет, не о том, увы, писал Уильям наш, Шекспир.
+
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ANQL2Z4mr6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
