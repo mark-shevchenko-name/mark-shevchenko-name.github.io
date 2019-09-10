@@ -122,11 +122,14 @@ blockquote {
 .A7,
 .Am,
 .Am9,
+.AmC,
+.AmG,
 .B-flat,
 .B,
 .B7,
 .Bm,
 .Bm7,
+.Bm11,
 .C,
 .Cm,
 .Cmaj7,
@@ -140,6 +143,7 @@ blockquote {
 .F,
 .Fm,
 .F-sharp-m6,
+.Fmaj7
 .G,
 .G7,
 .Gm,
@@ -167,6 +171,14 @@ blockquote {
 	content: 'A\2098\2089';
 }
 
+.AmC:before {
+	content: 'A\2098+C';
+}
+
+.AmG:before {
+	content: 'A\2098+G';
+}
+
 .B-flat:before {
     content: 'B\266D';
 }
@@ -185,6 +197,10 @@ blockquote {
 
 .Bm7:before {
 	content: 'B\2098\2087';
+}
+
+.Bm11:before {
+	content: 'B\2098\2081\2081';
 }
 
 .C:before {
@@ -237,6 +253,10 @@ blockquote {
 
 .F-sharp-m6:before {
 	content: 'F\266F\2098\2086';
+}
+
+.Fmaj7:before {
+	content: 'F\2098\2090\2C7C\2087';
 }
 
 .G:before {

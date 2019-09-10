@@ -4,6 +4,10 @@ layout: main
 
 ## Стихи, песни
 
+[Двадцать](twenty.md)
+
+[Саянская пиратская](sayan-pirate-song.md)
+
 [Доброе слово](good-word.md)
 
 [Потерял любимую](lost-loved.md)
