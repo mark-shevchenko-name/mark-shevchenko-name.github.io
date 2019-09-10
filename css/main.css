@@ -143,7 +143,7 @@ blockquote {
 .F,
 .Fm,
 .F-sharp-m6,
-.Fmaj7
+.Fmaj7,
 .G,
 .G7,
 .Gm,
@@ -172,11 +172,11 @@ blockquote {
 }
 
 .AmC:before {
-	content: 'A\2098+C';
+	content: 'A\2098/C';
 }
 
 .AmG:before {
-	content: 'A\2098+G';
+	content: 'A\2098/G';
 }
 
 .B-flat:before {
