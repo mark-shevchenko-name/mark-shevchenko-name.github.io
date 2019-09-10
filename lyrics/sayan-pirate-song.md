@@ -4,15 +4,15 @@ layout: lyrics
 
 ## Саянская пиратская
 
-Морск<span class="Am">их открытий вре<span class="Fmaj7">мена
-Прошл<span class="C">и давным давно<span class="E">.
-Певцо<span class="Am">м дороги и<span class="Fmaj7"> вина
-Сего<span class="C">дня быть смешно<span class="E">.
+Морск<span class="Am"></span>их открытий вре<span class="Fmaj7"></span>мена
+Прошл<span class="C"></span>и давным давно<span class="E"></span>.
+Певцо<span class="Am"></span>м дороги и<span class="Fmaj7"></span> вина
+Сего<span class="C"></span>дня быть смешно<span class="E"></span>.
 
-Но ма<span class="F">нят дальние<span class="C"> пути
-И сня<span class="E">тся корабли<span class="Am">,
-И что<span class="F">б унять тоску<span class="C"> в груди
-Идё<span class="Dm">м на край Земли<span class="E">.
+Но ма<span class="F"></span>нят дальние<span class="C"></span> пути
+И сня<span class="E"></span>тся корабли<span class="Am"></span>,
+И что<span class="F"></span>б унять тоску<span class="C"></span> в груди
+Идё<span class="Dm"></span>м на край Земли<span class="E"></span>.
 
 В поход пустившись по волнам
 Удачу обретем.
@@ -27,16 +27,16 @@ layout: lyrics
 Давай.
 
 **Припев**
-Держи<span class="Am">сь зуба<span class="AmC">ми,
-Цепля<span class="Bm11">й ва<span class="E">лы.
-Стальны<span class="Am">е не<span class="AmC">рвы
-Сильне<span class="Bm11">й ска<span class="G">лы.
+Держи<span class="Am"></span>сь зуба<span class="AmC"></span>ми,
+Цепля<span class="Bm11"></span>й ва<span class="E"></span>лы.
+Стальны<span class="Am"></span>е не<span class="AmC"></span>рвы
+Сильне<span class="Bm11"></span>й ска<span class="G"></span>лы.
 {: .indented}
 
-Прокля<span class="F">тый ка<span class="C">мень
-И са<span class="E">м не ра<span class="Am">д.
-Поро<span class="F">г усту<span class="Dm">пит
-И бу<span class="E">дет взя<span class="Am">т.
+Прокля<span class="F"></span>тый ка<span class="C"></span>мень
+И са<span class="E"></span>м не ра<span class="Am"></span>д.
+Поро<span class="F"></span>г усту<span class="Dm"></span>пит
+И бу<span class="E"></span>дет взя<span class="Am"></span>т.
 {: .indented}
 
 Домашний вреден нам уют,
