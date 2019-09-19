@@ -5,9 +5,9 @@ layout: lyrics
 ## Саянская пиратская
 
 Морск<span class="Am"></span>их открытий вре<span class="Fmaj7"></span>мена
-Прошл<span class="C"></span>и давным давно<span class="E"></span>.
+Прошл<span class="C"></span>и давным давно<span class="G"></span>.
 Певцо<span class="Am"></span>м дороги и<span class="Fmaj7"></span> вина
-Сего<span class="C"></span>дня быть смешно<span class="E"></span>.
+Сего<span class="C"></span>дня быть смешно<span class="G"></span>.
 
 Но ма<span class="F"></span>нят дальние<span class="C"></span> пути
 И сня<span class="E"></span>тся корабли<span class="Am"></span>,
@@ -80,3 +80,7 @@ layout: lyrics
 Порог уступит
 И будет взят.
 {: .indented}
+
+<div class="video-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JYXEaUNXw20" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
