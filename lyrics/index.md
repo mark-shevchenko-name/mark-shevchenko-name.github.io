@@ -4,6 +4,8 @@ layout: main
 
 ## Стихи, песни
 
+[Впереди горизонт](horizon-ahead.md)
+
 [Двадцать](twenty.md)
 
 [Саянская пиратская](sayan-pirate-song.md)
