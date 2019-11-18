@@ -90,10 +90,11 @@ blockquote {
 
 @media screen and (min-width: 992px) {
 	.me {
-		width: 33%;
+		width: 25%;
 		float: left;
-		margin-right: 1em;
-		margin-bottom: 1em;
+		margin-left: 1em;
+		margin-right: 2em;
+		margin-bottom: 2em;
 	}
 }
 
