@@ -9,3 +9,11 @@ excerpt: "Обещанного три года ждут. Я управился �
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/eb0mDCK5h_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Бонусы
+
+Песня [Саянская Пиратская](/lyrics/sayan-pirate-song/).
+
+Песня [Впереди горизонт](/lyrics/horizon-ahead/).
+
+Рассказ о том, [как я выпал из катамарана](/belles-lettres/thirstily/).
