@@ -98,6 +98,30 @@ blockquote {
 	}
 }
 
+.picture {
+	width: 100%;
+}
+
+@media screen and (min-width: 992px) {
+	.picture {
+		height: 4em;
+	}
+
+	.left {
+		float: left;
+		margin-left: 0;
+		margin-right: 2em;
+		margin-bottom: 1em;
+	}
+	
+	.right {
+		float: right;
+		margin-left: 2em;
+		margin-right: 0;
+		margin-bottom: 1em;
+	}
+}
+
 .video-wrapper {
 	position: relative;
 	padding-bottom: 56.25% /* 16:9 */;
