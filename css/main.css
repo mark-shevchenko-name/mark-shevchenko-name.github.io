@@ -158,9 +158,11 @@ blockquote {
 }
 
 .A,
+.A5,
 .A7,
 .A7sus,
 .Am,
+.Am7,
 .Am9,
 .AmC,
 .AmG,
@@ -200,6 +202,10 @@ blockquote {
 	content: 'A';
 }
 
+.A5:before {
+	content: 'A\2085';
+}
+
 .A7:before {
 	content: 'A\2087';
 }
@@ -210,6 +216,10 @@ blockquote {
 
 .Am:before {
 	content: 'A\2098';
+}
+
+.Am7:before {
+	content: 'A\2098\2087';
 }
 
 .Am9:before {
