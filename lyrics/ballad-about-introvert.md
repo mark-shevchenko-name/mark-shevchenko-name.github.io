@@ -4,10 +4,10 @@ layout: lyrics
 
 ## Баллада об интроверте
 
-Давным-давно, в те времена, когда в большом поэте
-Уильяме Шекспире, величайшем из светил,
-Трагедия рождалась о Ромео и Джульетте,
-Большой психолог Карл Юнг тогда ещё не жил.
+Давн<span class="Em"></span>ым-давно, в те вр<span class="Bm"></span>емена, когд<span class="C"></span>а в большом по<span class="Am"></span>эте
+У<span class="Em"></span>ильяме Шексп<span class="Bm"></span>ире, велич<span class="Am"></span>айшем из свет<span class="D"></span>ил,
+Траг<span class="Em"></span>едия рожд<span class="Bm"></span>алась о Ром<span class="C"></span>ео и Джуль<span class="Em"></span>етте,
+Больш<span class="Em"></span>ой психолог К<span class="Bm"></span>арл Юнг тогд<span class="Am"></span>а ещ<span class="B7"></span>ё не ж<span class="Em"></span>ил.
 
 Но если б жил, он просветил Уильяма Шекспира,
 О повести, печальнее которой в мире нет,
@@ -15,16 +15,16 @@ layout: lyrics
 А про страданья, коим так подвержен интроверт.
 
 **Припев:**
-Вот, например, начальник начинает совещанье,
-Собрание, планерку, производственный совет,
-Вопрос: к кому приковано всеобщее внимание?
-Я думаю, что вы прекрасно знаете ответ.
+Вот, н<span class="Am"></span>апример, начальник начин<span class="Em"></span>ает совещанье,
+Собр<span class="C"></span>ание, план<span class="A"></span>ёрку, произв<span class="G"></span>одственный сов<span class="D"></span>ет,
+Вопр<span class="C"></span>ос: к кому приковано все<span class="Am"></span>общее внимание?
+Я д<span class="Em"></span>умаю, что в<span class="Am"></span>ы прекрасно зн<span class="B7"></span>аете отв<span class="Em"></span>ет.
 {: .indented}
 
-Не к интроверту, что трудом и потом добывает
-Добавленную стоимость и валовый доход,
-А к краснобаю, что весьма красиво заливает,
-И вкусно ест, и долго спит, и очень складно врёт.
+Не к <span class="Am"></span>интроверту, что трудом и п<span class="Em"></span>отом добывает
+Доб<span class="C"></span>авленную ст<span class="A"></span>оимость и в<span class="G"></span>аловый дох<span class="D"></span>од,
+А к кр<span class="C"></span>аснобаю, что весьма крас<span class="Am"></span>иво заливает,
+И вк<span class="Em"></span>усно ест, и д<span class="Am"></span>олго спит, и <span class="B7"></span>очень складно вр<span class="Em"></span>ёт.
 {: .indented}
 
 А интроверту хочется тепла, добра и ласки,
