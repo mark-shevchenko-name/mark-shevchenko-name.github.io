@@ -159,6 +159,7 @@ blockquote {
 
 .A,
 .A7,
+.A7sus,
 .Am,
 .Am9,
 .AmC,
@@ -166,6 +167,7 @@ blockquote {
 .B-flat,
 .B,
 .B7,
+.B7sus,
 .Bm,
 .Bm7,
 .Bm11,
@@ -202,6 +204,10 @@ blockquote {
 	content: 'A\2087';
 }
 
+.A7sus:before {
+	content: 'A\2087\209B\1D64\209B';
+}
+
 .Am:before {
 	content: 'A\2098';
 }
@@ -228,6 +234,10 @@ blockquote {
 
 .B7:before {
 	content: 'B\2087';
+}
+
+.B7sus:before {
+	content: 'B\2087\209B\1D64\209B';
 }
 
 .Bm:before {
