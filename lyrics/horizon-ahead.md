@@ -16,8 +16,8 @@ layout: lyrics
 Знаю средство в<span class="Em"></span>ерное одн<span class="Am7"></span>о…
 
 **Припев**
-А я бер<span class="Dm7"></span>у&nbsp;&nbsp;<span class="Em"></span>&nbsp; большое весл<span class="Am7"></span>о,&nbsp;&nbsp;<span class="C"></span>&nbsp;
-Я греб<span class="Dm7"></span>у&nbsp;&nbsp;<span class="Em"></span>&nbsp; неизменно впер<span class="Am7"></span>ёд,
+А я бер<span class="Dm7"></span>у&nbsp;&nbsp;&nbsp;&nbsp;<span class="Em"></span>&nbsp; большое весл<span class="Am7"></span>о,&nbsp;&nbsp;<span class="C"></span>&nbsp;
+Я греб<span class="Dm7"></span>у&nbsp;&nbsp;&nbsp;&nbsp;<span class="Em"></span>&nbsp; неизменно впер<span class="Am7"></span>ёд,
 Всё, что мучит — пройд<span class="Dm7"></span>ёт,&nbsp;&nbsp;<span class="G"></span>&nbsp;
 Ведь всё, что м<span class="C"></span>учил<span class="Em"></span>о — прошл<span class="A5"></span>о.&nbsp;&nbsp;<span class="Dm7"></span>&nbsp;
 Позади белый св<span class="Em"></span>ет, впереди гориз<span class="Am"></span>онт.<span class="Dm7"></span>&nbsp;
