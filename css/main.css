@@ -164,9 +164,10 @@ blockquote {
 .Am,
 .Am7,
 .Am9,
-.AmC,
-.AmG,
+.Am_C,
+.Am_G,
 .B-flat,
+.B-flat-maj7,
 .B,
 .B7,
 .B7sus,
@@ -178,6 +179,7 @@ blockquote {
 .Cmaj7,
 .D,
 .Dm,
+.Dm_C,
 .Dm7,
 .E,
 .Em,
@@ -226,16 +228,20 @@ blockquote {
 	content: 'A\2098\2089';
 }
 
-.AmC:before {
+.Am_C:before {
 	content: 'A\2098/C';
 }
 
-.AmG:before {
+.Am_G:before {
 	content: 'A\2098/G';
 }
 
 .B-flat:before {
     content: 'B\266D';
+}
+
+.B-flat-maj7:before {
+    content: 'B\266D\2098\2090\2C7C\2087';
 }
 
 .B:before {
@@ -284,6 +290,10 @@ blockquote {
 
 .Dm7:before {
 	content: 'D\2098\2087';
+}
+
+.Dm_C:before {
+	content: 'D\2098/C';
 }
 
 .E:before {

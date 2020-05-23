@@ -27,9 +27,9 @@ layout: lyrics
 Давай.
 
 **Припев**
-Держи<span class="Am"></span>сь зуба<span class="AmC"></span>ми,
+Держи<span class="Am"></span>сь зуба<span class="Am_C"></span>ми,
 Цепля<span class="Bm11"></span>й ва<span class="E"></span>лы.
-Стальны<span class="Am"></span>е не<span class="AmC"></span>рвы
+Стальны<span class="Am"></span>е не<span class="Am_C"></span>рвы
 Сильне<span class="Bm11"></span>й ска<span class="G"></span>лы.
 {: .indented}
 
