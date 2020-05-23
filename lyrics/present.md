@@ -4,21 +4,21 @@ layout: lyrics
 
 ## Подарок
 
-Подарю тебе я небо,
-чтобы было синим-синим,
-не холодным, а весенним,
-с голубями выше крыш.
+П<span class="Am"></span>одарю тебе я н<span class="E7"></span>ебо,
+чт<span class="Gm"></span>обы было синим-с<span class="D"></span>иним,<span class="Dm7"></span>&nbsp;
+не холодным, <span class="Am"></span>а весенним,<span class="Bm7"></span>&nbsp;
+с голубями выше кр<span class="E7"></span>ыш.
 
-Но подарок ты не примешь,
-и не будет сожаленья —
-небо есть у всех с рожденья,
-ну кого им удивишь?
+Н<span class="Am"></span>о подарок ты не пр<span class="E7"></span>имешь,
+<span class="Gm"></span>и не будет сожал<span class="D"></span>енья —<span class="Dm7"></span>&nbsp;
+небо есть у вс<span class="Am"></span>ех с рожденья,<span class="Bm7"></span>&nbsp;
+ну кого им удив<span class="E7"></span>ишь?
 
 **Припев:**
-Подарю тебе я небо
-Цвета солнечного дня,
-К сожалению, прекрасней
-Нет подарка у меня.
+П<span class="Gm"></span>одарю тебе я н<span class="A7"></span>ебо<span class="Dm"></span>&nbsp;
+Цвета солнечного дня,<span class="F"></span>&nbsp;
+К сожалению, прекрасней<span class="Bm7"></span>&nbsp;
+Нет подарка у мен<span class="E7"></span>я.
 {: .indented}
 
 Подарю тебе я звёзды,

@@ -9,10 +9,10 @@ layout: lyrics
 Траг<span class="Em"></span>едия рожд<span class="Bm"></span>алась о Ром<span class="C"></span>ео и Джуль<span class="Em"></span>етте,
 Больш<span class="Em"></span>ой психолог К<span class="Bm"></span>арл Юнг тогд<span class="Am"></span>а ещ<span class="B7"></span>ё не ж<span class="Em"></span>ил.
 
-Но если б жил, он просветил Уильяма Шекспира,
-О повести, печальнее которой в мире нет,
-Не про влюблённые сердца, Отелло или Лира,
-А про страданья, коим так подвержен интроверт.
+Но <span class="Em"></span>если б жил, он пр<span class="Bm"></span>осветил У<span class="C"></span>ильяма Шексп<span class="Am"></span>ира,
+О п<span class="Em"></span>овести, печ<span class="Bm"></span>альнее кот<span class="Am"></span>орой в мире н<span class="D"></span>ет,
+Не пр<span class="Em"></span>о влюблённы<span class="Bm"></span>е сердца, От<span class="C"></span>елло или Л<span class="Am"></span>ира,
+А пр<span class="Em"></span>о страданья, к<span class="Bm"></span>оим так подв<span class="Am"></span>ержен <span class="B7"></span>интров<span class="Em"></span>ерт.
 
 **Припев:**
 Вот, н<span class="Am"></span>апример, начальник начин<span class="Em"></span>ает совещанье,
