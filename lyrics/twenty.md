@@ -4,7 +4,7 @@ layout: lyrics
 
 ## Питер (Двадцать)
 
-<span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 С в<span class="Dm"></span>озрастом память совс<span class="Dm_C"></span>ем не такая:
 День вчер<span class="Bm11"></span>ашний не помню, а старых друз<span class="B-flat-maj7"></span>ей вспоминаю.
@@ -40,7 +40,7 @@ layout: lyrics
 <span class="C"></span>А впереди — безгран<span class="Am"></span>ичное счастье.
 {: .indented}
 
-<span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Времени с тех пор утекло немало,
 Жизнь помяла, судьба разбросала.
