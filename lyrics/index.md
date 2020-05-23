@@ -6,11 +6,11 @@ layout: main
 
 [Впереди горизонт](horizon-ahead.md)
 
-[Двадцать](twenty.md)
+[Питер (Двадцать)](twenty.md)
 
 [Саянская пиратская](sayan-pirate-song.md)
 
-[Доброе слово](good-word.md)
+[Доброе слово (Три грамма олова)](good-word.md)
 
 [Потерял любимую](lost-loved.md)
 
