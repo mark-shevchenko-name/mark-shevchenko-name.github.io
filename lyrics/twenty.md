@@ -2,12 +2,17 @@
 layout: lyrics
 ---
 
-## Двадцать
+## Питер (Двадцать)
 
-С возрастом память уже не такая:
-День вчерашний не помню, а старых друзей вспоминаю.
-Шурик, Витёк, ну и я третий.
-Лет по двадцать нам, мы в подъезде соседи.
+<span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+
+С в<span class="Dm"></span>озрастом память совс<span class="Dm_C"></span>ем не такая:
+День вчер<span class="Bm11"></span>ашний не помню, а старых друз<span class="B-flat-maj7"></span>ей вспоминаю.
+Ш<span class="Dm"></span>урик, Витёк, ну и <span class="Dm_С"></span>я третий.
+Лет по дв<span class="Bm11"></span>адцать нам, мы в подъ<span class="B-flat-maj7"></span>езде соседи.
 
 Обычные ребята: не ботаны, не мажоры.
 Днём у нас работа, по вечерам разговоры.
@@ -19,23 +24,30 @@ layout: lyrics
 Витя выпил немного, потом губы вытер
 И вдруг говорит: «А поехали в Питер!»
 
-Прыгнуть в поезд и умчаться,
-Мир огромный посмотреть.
-Только раз бывает двадцать,
-Значит, надо всё успеть.
+<span class="Gm"></span>&nbsp;
+
+Прыгнуть в поезд и умч<span class="C"></span>аться,<span class="F"></span>&nbsp;
+Мир огромный посмотр<span class="B-flat"></span>еть.&nbsp;&nbsp;<span class="Gm"></span>&nbsp;
+Только раз бывает дв<span class="C"></span>&nbsp;адцать,<span class="F"></span>&nbsp;
+Значит, надо всё усп<span class="A"></span>еть.
 
 **Припев**
-Там рано утром туман над Невою,
-Небо раскинулось над головую.
-Музыканты на улицах, город как сцена —
-Девушки — юбки выше колена.
+Т<span class="Dm7"></span>ам рано утром тум<span class="G"></span>ан над Невою,
+Н<span class="C"></span>ебо раскинулось н<span class="Am"></span>ад головую.
+Музык<span class="F"></span>анты на улицах, г<span class="G"></span>ород как сцена —
+Д<span class="C"></span>евушки — юбки в<span class="Am"></span>ыше колена.
 {: .indented}
 
-Там белые ночи, здорово очень,
-Исаакий, Кунст-камера, Дворцовая площадь.
-Там сердце от радости рвётся на части,
-А впереди — безграничное счастье.
+Там б<span class="F"></span>елые ночи, зд<span class="G"></span>орово очень,
+Ис<span class="C"></span>аакий, Кунст-камера, Дворц<span class="Am"></span>овая площадь.
+Там с<span class="F"></span>ердце от радости рв<span class="G"></span>ётся на части,
+<span class="C"></span>А впереди — безгран<span class="Am"></span>ичное счастье.
 {: .indented}
+
+<span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;
 
 Времени с тех пор утекло немало,
 Жизнь помяла, судьба разбросала.
