@@ -4,6 +4,8 @@ layout: main
 
 ## Стихи, песни
 
+[Синоптик](synoptic.md)
+
 [Впереди горизонт](horizon-ahead.md)
 
 [Питер (Двадцать)](twenty.md)
