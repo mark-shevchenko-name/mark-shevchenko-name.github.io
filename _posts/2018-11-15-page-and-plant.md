@@ -10,7 +10,7 @@ excerpt: "Молодые исполнители, похожие на стары�
 Саунд у группы очень цеппелиновский. Одна из моих любимых композиций это *Pressure And Time* с одноимённого альбома 2011 года.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/-MA0m1K2jW4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/e1MaDYbECSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 А вот вторая группа дейсвительно молода, поскольку появилась в 2017-м году. Называется она *Greta Van Fleet*, в честь одной знакомой музыкантам тётушки. Костяк ансамбля составляют три родных брата
