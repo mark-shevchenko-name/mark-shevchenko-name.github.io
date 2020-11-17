@@ -5,7 +5,7 @@ title: "Медвежий угол"
 description: "Стихи, рассказы и путевые заметки Марка Шевченко."
 
 author: "Марк Шевченко"
-url: http://mark.shevchenko.name
+url: https://mark.shevchenko.name
 
 permalink: pretty
 highlighter: rouge
@@ -26,3 +26,4 @@ kramdown:
 
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
