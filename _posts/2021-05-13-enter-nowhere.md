@@ -14,7 +14,7 @@ excerpt: "Американский фантастический триллер, 
 
 Интересный триллер с нетривиальными смыслами. Возможно, завязку разрешили слишком простым способом, но даже так получилось захватывающе.
 
-Парня играет Скотт Иствуд — сын «хорошего» Клинта Иствуда. Одну из девушек — Кэтрин Уотерстон, известная нам по __Фантастическим тварям__.
+Парня играет Скотт Иствуд — сын «хорошего» Клинта Иствуда. Одну из девушек — Кэтрин Уотерстон, известная нам по _Фантастическим тварям_.
 
 <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fbaK7Cu4tls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
