@@ -4,6 +4,8 @@ layout: main
 
 ## Беллетристика
 
+[Случай в баре](case-at-bar.md)
+
 [Жадно](thirstily.md)
 
 [Улыбайся!](smile.md)
