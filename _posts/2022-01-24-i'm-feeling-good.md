@@ -1,7 +1,7 @@
 ---
 title: "I'm feeling good"
 date: "2022-01-24 21:00:00 +0300"
-excerpt: Pomme
+excerpt: Michael Bublé
 ---
 
 <div class="video-wrapper">
