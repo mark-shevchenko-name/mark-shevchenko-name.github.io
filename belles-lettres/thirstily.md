@@ -1,5 +1,6 @@
 ---
 layout: belles-lettres
+excerpt: Случай из жизни.
 ---
 
 ## Жадно
