@@ -1,5 +1,6 @@
 ﻿---
 layout: belles-lettres
+excerpt: Заповедный кусочек из детства.
 ---
 
 ## Фарида

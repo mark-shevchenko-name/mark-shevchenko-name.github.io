@@ -1,5 +1,6 @@
 ---
 layout: belles-lettres
+excerpt: Когда улыбаться не хочется.
 ---
 
 ## Улыбайся!
