@@ -6,7 +6,7 @@ excerpt: Всякая всячина.
 {% if paginator.total_pages == 1 %}
   {% assign page.title = "Журнал" %}
 {% else %}
-  {% assign page.title = "Журнал (страница " | append: paginator.page | append " из " | append paginator.total_pages | append ")" %}
+  {% assign page.title = "Журнал (страница " | append: paginator.page | append: " из " | append: paginator.total_pages | append: ")" %}
 {% endif %}
 
 <h2>{{ title }}</h2>
