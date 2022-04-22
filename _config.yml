@@ -24,6 +24,6 @@ markdown: kramdown
 kramdown:
   auto_ids: true
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
