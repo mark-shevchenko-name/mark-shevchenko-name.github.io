@@ -3,10 +3,10 @@ layout: main
 excerpt: Всякая всячина.
 ---
 
-{% if paginator.total_pages = 1 %}
+{% if paginator.total_pages == 1 %}
   {% assign page.title = "Журнал" %}
 {% else %}
-  {% assign page.title = "Журнал (страница " + paginator.page + " из " + paginator.total_pages + ")" %}
+  {% assign page.title = "Журнал (страница " | append: paginator.page | append " из " | append paginator.total_pages | append ")" %}
 {% endif %}
 
 <h2>{{ title }}</h2>
