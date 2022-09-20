@@ -2,7 +2,7 @@
 layout: lyrics
 ---
 
-## Потерял любимую
+## Где искать тебя на свете
 
 <span class="Em"></span>Расскажу<span class="D"></span> я, расскажу<span class="Am"></span>
 Про свою<span class="Bm"></span> беду:
