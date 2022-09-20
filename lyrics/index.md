@@ -4,17 +4,19 @@ layout: main
 
 ## Стихи, песни
 
+[Золотая нить](gold-thread.md)
+
 [Синоптик](synoptic.md)
 
 [Впереди горизонт](horizon-ahead.md)
 
-[Питер (Двадцать)](twenty.md)
+[Питер](piter.md)
 
 [Саянская пиратская](sayan-pirate-song.md)
 
-[Доброе слово (Три грамма олова)](good-word.md)
+[Три грамма олова](three-grams-of-tin.md)
 
-[Потерял любимую](lost-loved.md)
+[Где искать тебя на свете](where-to-look-for-you-in-world.md)
 
 [Баллада об интроверте](ballad-about-introvert.md)
 
