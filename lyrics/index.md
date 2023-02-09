@@ -4,6 +4,10 @@ layout: main
 
 ## Стихи, песни
 
+[Без тебя](without-you.md)
+
+[Муравейник](anthill.md)
+
 [Золотая нить](gold-thread.md)
 
 [Синоптик](synoptic.md)
