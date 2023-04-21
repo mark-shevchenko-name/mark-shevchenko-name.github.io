@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Баллада об интроверте
 ---
-
-## Баллада об интроверте
 
 Давн<span class="Em"></span>ым-давно, в те вр<span class="Bm"></span>емена, когд<span class="C"></span>а в большом по<span class="Am"></span>эте
 У<span class="Em"></span>ильяме Шексп<span class="Bm"></span>ире, велич<span class="Am"></span>айшем из свет<span class="D"></span>ил,

@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Подарок
 ---
-
-## Подарок
 
 П<span class="Am"></span>одарю тебе я н<span class="E7"></span>ебо,
 чт<span class="Gm6"></span>обы было синим-с<span class="D"></span>иним,<span class="Dm7"></span>&nbsp;

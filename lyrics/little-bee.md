@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Пчёлка
 ---
-
-## Пчёлка
 
 Тра<span class="Em"></span>нжиря си<span class="Em7"></span>лы, раз<span class="A7sus"></span>бивая но<span class="B7sus"></span>ги,
 Не<span class="Em"></span>сусь га<span class="Em7"></span>лопом, от се<span class="A7sus"></span>бя бе<span class="B7sus"></span>гу.
@@ -22,7 +21,7 @@ layout: lyrics
 То<span class="Am"></span>лько вот того, что надо —
 Нет.<span class="Em"></span>
 {: .indented}
- 
+
 Закаты рдеют и встают рассветы,
 Приходят мысли из ночной тиши.
 Я променял бы душу на монеты,
