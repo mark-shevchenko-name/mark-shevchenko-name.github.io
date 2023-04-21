@@ -20,7 +20,7 @@ layout: lyrics
 Сударыня, но что<span class="Dm"></span> ж Вы холодны, как лё<span class="Am"></span>д?
 Никто Вас убива<span class="E"></span>ть и грабить не зовё<span class="Am"></span>т!
 {: .indented}
- 
+
 Ваш арсенал лишает нас надежды:
 причёски, макияжи и одежды,
 улыбки, ахи, вздохи, розы, вёсны,
@@ -51,11 +51,10 @@ layout: lyrics
 **Припев:**
 Я Вас, мадемуазель, не силах уломать,
 ни уложить в постель, ни затащить в кровать.
-Сударыня, но что ж Вы говорите «нет»?
-Зачем же в сердце нож, ведь это не ответ!
+Худого слова вам, mon chéri, не скажу,
+На ваше «нет, не дам» — прощайте, ухожу!
 {: .indented}
 
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/BkBmZBNfuLw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
