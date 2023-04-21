@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Впереди горизонт
 ---
-
-## Впереди горизонт
 
 <span class="Dm7"></span>&nbsp;
 

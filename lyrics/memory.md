@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Память
 ---
-
-## Память
 
 Я<span class="Em"></span> бы стёр до дыр твоё и<span class="A"></span>мя спиртом
 С обвет<span class="C"></span>шавших сердечных мы<span class="Em"></span>шц.

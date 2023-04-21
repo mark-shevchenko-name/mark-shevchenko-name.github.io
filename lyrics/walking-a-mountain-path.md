@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Горными тропами
 ---
-
-## Горными тропами
 
 Не<span class="Am"></span> умереть нам в по<span class="Am9"></span>стели — до<span class="Am"></span>рога зовё<span class="Am9"></span>т,
 А лу<span class="Dm"></span>чше дороги и<span class="Dm7"></span> не<span class="Dm"></span>т ничего<span class="Dm7"></span>.

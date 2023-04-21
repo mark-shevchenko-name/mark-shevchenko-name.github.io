@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Саянская пиратская
 ---
-
-## Саянская пиратская
 
 Морск<span class="Am"></span>их открытий вре<span class="Fmaj7"></span>мена
 Прошл<span class="C"></span>и давным давно<span class="G"></span>.

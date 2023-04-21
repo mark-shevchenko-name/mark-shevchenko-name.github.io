@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Капитаны
 ---
-
-## Капитаны
 
 А под не<span class="Am"></span>бом океа<span class="E"></span>н, океа<span class="Am"></span>н.
 В океа<span class="G"></span>не корабли, кора<span class="C"></span>бли.

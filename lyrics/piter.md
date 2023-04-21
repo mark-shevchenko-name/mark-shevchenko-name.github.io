@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Питер
 ---
-
-## Питер
 
 <span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

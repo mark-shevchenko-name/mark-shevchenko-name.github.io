@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Мадемуазель
 ---
-
-## Мадемуазель
 
 А<span class="Am"></span>х, женщины, прекра<span class="E"></span>сные коке<span class="Am"></span>тки —
 и о<span class="E"></span>пытные дамы, и нимфе<span class="Am"></span>тки!

@@ -1,8 +1,7 @@
 ﻿---
 layout: lyrics
+title: Три грамма олова
 ---
-
-## Три грамма олова
 
 Сде<span class="Am"></span>ланы лю<span class="G"></span>ди из ра<span class="C"></span>зной ма<span class="F"></span>терии,
 В ка<span class="Dm"></span>ждом сво<span class="Am"></span>и проступа<span class="B7"></span>ют че<span class="Em"></span>рты.
