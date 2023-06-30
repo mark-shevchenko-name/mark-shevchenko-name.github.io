@@ -4,7 +4,7 @@ date: "2023-03-09 09:00:00 +0300"
 excerpt: Разные исполнители
 ---
 
-На прошлой неделе в среду собрались квартирником в баре Fox & Grapes и сделали [отчётный концерт]({% post_url 2023-03-1-house-gig %}). У нас там все барды с соответствующим уровнем игры и пения, но к нам в гости прихали девушки из музыкального колледжа и устроили нам Summertime.
+На прошлой неделе в среду собрались квартирником в баре Fox&Grapes и сделали [отчётный концерт]({% post_url 2023-03-1-house-gig %}). У нас там все барды с соответствующим уровнем игры и пения, но к нам в гости прихали девушки из музыкального колледжа и устроили нам Summertime.
 
 <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/NrcJP2GSJu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
