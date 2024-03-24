@@ -6,4 +6,4 @@ excerpt: "Рассказ о муках творчества."
 
 Написал небольшой рассказ.
 
-[Самое изощрённое убийство](/belles-lettres/most-sophisticated-murder/).
+[Самое изощрённое убийство]({% belles-lettres/most-sophisticated-murder.md %}).

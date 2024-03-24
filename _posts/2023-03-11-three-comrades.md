@@ -9,5 +9,5 @@ excerpt: Вадим Эйленкриг и Eilenkrig Crew
 В самом конце музыканты сыграли ту самую пронзительную композицию Артемьева из «Свой среди чужих…». Оказывается, она называется «Три товарища».
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/A5dQNHIQG2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe src="https://vk.com/video_ext.php?oid=3080867&id=456239100&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
 </div>
