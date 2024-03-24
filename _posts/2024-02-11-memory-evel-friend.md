@@ -6,7 +6,7 @@ excerpt: "Отчётный концерт в вокальной школе Fox S
 
 Написал эту песню несколько лет назад. Пригодилась для отчётного концерта.
 
-Спасибо преподавателю Дарье Копан за подготовку.
+Спасибо преподавательнице Дарье Копан за подготовку.
 
 <div class="video-wrapper">
     <iframe src="https://vk.com/video_ext.php?oid=746350732&id=456239049&hd=2" width="853" height="480" allow="autoplay; encrypted-media; fullscreen; picture-in-picture;" frameborder="0" allowfullscreen></iframe>
