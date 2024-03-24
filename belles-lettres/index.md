@@ -1,5 +1,5 @@
 ﻿---
-layout: main
+layout: page
 excerpt: Рассказы.
 ---
 
@@ -14,4 +14,3 @@ excerpt: Рассказы.
 [Самое изощрённое убийство](most-sophisticated-murder.md)
 
 [Фарида](farida.md)
-
