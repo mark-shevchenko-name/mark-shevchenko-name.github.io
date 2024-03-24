@@ -1,15 +1,11 @@
 ﻿---
-layout: main
+layout: page
 ---
 
-<div class="row">
-  <div class="col-10">
-    <p class="breadcrumbs">
-      <a href="{% link belles-lettres/index.md %}">Беллетристика</a>&nbsp;&raquo; {{ page.title | escape }}
-    </p>
+<p class="breadcrumbs">
+  <a href="{% link belles-lettres/index.md %}">Беллетристика</a>&nbsp;&raquo; {{ page.title | escape }}
+</p>
 
-    <div class="belles-lettres">
-      {{ content }}
-    </div>
-  </div>
+<div class="belles-lettres">
+  {{ content }}
 </div>
