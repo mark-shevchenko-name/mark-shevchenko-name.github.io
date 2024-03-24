@@ -2,11 +2,15 @@
 layout: main
 ---
 
-<p class="breadcrumbs">
-  <a href="{% link index.md %}">Стихи, песни</a>&nbsp;&raquo; {{ page.title | escape }}
-</p>
+<div class="row">
+  <div class="col-12">
+    <p class="breadcrumbs">
+      <a href="{% link index.md %}">Стихи, песни</a>&nbsp;&raquo; {{ page.title | escape }}
+    </p>
 
-<div class="lyrics">
-  <h1>{{ page.title | escape }}</h1>
-  {{ content }}
+    <div class="lyrics">
+      <h1>{{ page.title | escape }}</h1>
+      {{ content }}
+    </div>
+  </div>
 </div>

@@ -2,10 +2,14 @@
 layout: main
 ---
 
-<p class="breadcrumbs">
-  <a href="{{ "/belles-lettres" | relative_url }}">Беллетристика</a>&nbsp;&raquo; {{ page.title | escape }}
-</p>
+<div class="row">
+  <div class="col-12">
+    <p class="breadcrumbs">
+      <a href="{% link index.md %}">Беллетристика</a>&nbsp;&raquo; {{ page.title | escape }}
+    </p>
 
-<div class="belles-lettres">
-  {{ content }}
+    <div class="belles-lettres">
+      {{ content }}
+    </div>
+  </div>
 </div>
