@@ -1,7 +1,7 @@
 ---
 title: "Populaire"
 date: "2024-03-05 09:00:00 +0300"
-excerpt: "Nathalie Cardone"
+excerpt: "Nathalie Cardone."
 ---
 
 <div class="video-wrapper">

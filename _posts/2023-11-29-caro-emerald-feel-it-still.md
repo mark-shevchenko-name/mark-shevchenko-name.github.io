@@ -1,7 +1,7 @@
 ---
 title: "Feel It Still"
 date: "2023-11-29 09:00:00 +0300"
-excerpt: "Caro Emerald"
+excerpt: "Caro Emerald."
 ---
 
 Комбо. Люблю и Кару Эмеральд, и песню Feel It Still.

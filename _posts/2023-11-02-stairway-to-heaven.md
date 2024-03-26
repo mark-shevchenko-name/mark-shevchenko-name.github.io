@@ -1,7 +1,7 @@
 ---
 title: "Stairway To Heaven"
 date: "2023-11-02 19:00:00 +0300"
-excerpt: "Andy Taylor & Robert Plant"
+excerpt: "Andy Taylor & Robert Plant."
 ---
 
 Роберт Плант зарекался петь «Лестницу в небо». Но не сдержался на старости лет. За что нам от него огромное спасибо!

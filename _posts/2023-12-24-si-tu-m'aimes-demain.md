@@ -1,7 +1,7 @@
 ---
 title: "Si tu m'aimes demain"
 date: "2023-12-24 09:00:00 +0300"
-excerpt: "Iliona"
+excerpt: "Iliona."
 ---
 
 <div class="video-wrapper">
