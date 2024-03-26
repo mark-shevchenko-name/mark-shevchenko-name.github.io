@@ -10,7 +10,6 @@ excerpt: Концерт в клубе 16 тонн.
 
 Скажу одно: и Винсенту, и Уве концерт очень понравился. И Варе понравился. Ну и мне тоже. Вот несколько клипов группы (или ВИА, как они сами себя называют). Я их время от времени пересматриваю-переслушиваю.
 
-
 <div class="video-wrapper">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Ih9FLpKONoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
