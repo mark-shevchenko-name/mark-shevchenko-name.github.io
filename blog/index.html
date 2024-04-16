@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: Всякая всячина.
+excerpt: Всякая всячина, страница {{ paginator.page }}.
 ---
 
 {% if paginator.total_pages == 1 %}
@@ -9,7 +9,7 @@ excerpt: Всякая всячина.
   {% assign page.title = "Журнал (страница " | append: paginator.page | append: " из " | append: paginator.total_pages | append: ")" %}
 {% endif %}
 
-<h2>{{ title }}</h2>
+<h2>Блог — страница {{ paginator.page }} — {{ title }}</h2>
 
 <div class="blog">
 {% for post in paginator.posts %}

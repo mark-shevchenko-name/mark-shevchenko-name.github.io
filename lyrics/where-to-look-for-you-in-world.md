@@ -1,6 +1,7 @@
 ﻿---
 layout: lyrics
 title: Где искать тебя на свете
+excerpt: Расскажу я, расскажу про свою беду, потерял любимую, ищу не найду...
 ---
 
 <span class="Em"></span>Расскажу<span class="D"></span> я, расскажу<span class="Am"></span>
@@ -29,7 +30,7 @@ title: Где искать тебя на свете
 <span class="Am"></span>Сколько гла<span class="D"></span>з про<span class="G"></span>плака<span class="C"></span>ть на<span class="Em"></span>до<span class="Am"></span>,
 <span class="B7"></span>Сколько весей обойти<span class="Em"></span>?
 {: .indented}
- 
+
 <span class="Am"></span>Где искать те<span class="D"></span>бя<span class="G"></span> на<span class="C"></span> све<span class="Em"></span>те<span class="Am"></span>
 <span class="B7"></span>Знает дождик, морося<span class="Em"></span>,&nbsp;&nbsp;&nbsp;&nbsp;<span class="E"></span>
 <span class="Am"></span>Знает со<span class="D"></span>лнце<span class="G"></span>, знае<span class="C"></span>т ве<span class="Em"></span>те<span class="Am"></span>р,
@@ -51,7 +52,7 @@ title: Где искать тебя на свете
 Сколько глаз проплакать надо,
 Сколько весей обойти?
 {: .indented}
- 
+
 Где искать тебя на свете
 Знает дождик, морося,
 Знает солнце, знает ветер,

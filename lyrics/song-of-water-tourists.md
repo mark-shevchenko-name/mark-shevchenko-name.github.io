@@ -1,6 +1,7 @@
 ﻿---
 layout: lyrics
 title: Песня туристов-водников
+excerpt: Идём к далёкой цели, наперевес весло, мы не туда хотели, где сухо и тепло...
 ---
 
 Идё<span class="Am"></span>м к далёкой цели —
@@ -9,7 +10,7 @@ title: Песня туристов-водников
 Где су<span class="Dm"></span>хо и тепло<span class="E"></span>.
 
 Вода<span class="Am"></span> в лицо и спину —
-Та<span class="C"></span>кой уж здесь уют.
+Та<span class="C"></span>кой вот здесь уют.
 На<span class="F"></span>с пледы и пе<span class="C"></span>рины
 Пусть дома<span class="E"></span> подожду<span class="Am"></span>т.
 

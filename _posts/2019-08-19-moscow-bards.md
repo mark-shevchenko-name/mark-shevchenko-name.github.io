@@ -77,6 +77,3 @@ excerpt: "Видео с летних встреч."
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FalMPWg5w64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-
-
