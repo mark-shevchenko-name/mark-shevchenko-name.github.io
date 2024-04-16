@@ -1,6 +1,7 @@
 ﻿---
 layout: lyrics
 title: Впереди горизонт
+excerpt: Суета, по жизни суета, туда-сюда, сюда-туда...
 ---
 
 <span class="Dm7"></span>&nbsp;

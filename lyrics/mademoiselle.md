@@ -1,6 +1,7 @@
 ﻿---
 layout: lyrics
 title: Мадемуазель
+excerpt: Ах, женщины, прекрасные кокетки, и опытные дамы и нимфетки...
 ---
 
 А<span class="Am"></span>х, женщины, прекра<span class="E"></span>сные коке<span class="Am"></span>тки —

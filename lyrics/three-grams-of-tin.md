@@ -1,6 +1,7 @@
 ﻿---
 layout: lyrics
 title: Три грамма олова
+excerpt: Сделаны люди из разной материи, в каждом свои проступают черты...
 ---
 
 Сде<span class="Am"></span>ланы лю<span class="G"></span>ди из ра<span class="C"></span>зной ма<span class="F"></span>терии,
@@ -38,7 +39,7 @@ title: Три грамма олова
 Руки пустые — итог накопления,
 Доброе слово — итог чистоты.
 {: .indented}
- 
+
 <div class="video-wrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WT7-GgbwMtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
