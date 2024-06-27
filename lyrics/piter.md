@@ -1,7 +1,7 @@
 ﻿---
 layout: lyrics
 title: Питер
-excerpt: С возрастом память совсем не такая, день вчерашний не помню, старых друзей вспоминаю...
+description: С возрастом память совсем не такая, день вчерашний не помню, старых друзей вспоминаю...
 ---
 
 <span class="Dm"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Dm_C"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="Bm11"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="B-flat-maj7"></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,7 +1,7 @@
 ﻿---
 layout: lyrics
 title: Три грамма олова
-excerpt: Сделаны люди из разной материи, в каждом свои проступают черты...
+description: Сделаны люди из разной материи, в каждом свои проступают черты...
 ---
 
 Сде<span class="Am"></span>ланы лю<span class="G"></span>ди из ра<span class="C"></span>зной ма<span class="F"></span>терии,

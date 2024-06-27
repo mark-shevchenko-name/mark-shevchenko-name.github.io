@@ -1,7 +1,7 @@
 ﻿---
 layout: lyrics
 title: Капитаны
-exceprt: А под небом океан, океан, в океане корабли, корабли...
+description: А под небом океан, океан, в океане корабли, корабли...
 ---
 
 А под не<span class="Am"></span>бом океа<span class="E"></span>н, океа<span class="Am"></span>н.
