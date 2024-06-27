@@ -1,7 +1,7 @@
 ﻿---
 layout: lyrics
 title: Горными тропами
-excerpt: Не умереть нам в постели, дорога зовёт...
+description: Не умереть нам в постели, дорога зовёт...
 ---
 
 Не<span class="Am"></span> умереть нам в по<span class="Am9"></span>стели — до<span class="Am"></span>рога зовё<span class="Am9"></span>т,

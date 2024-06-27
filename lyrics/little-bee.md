@@ -1,7 +1,7 @@
 ﻿---
 layout: lyrics
 title: Пчёлка
-excerpt: Транжиря силы, разбивая ноги, несусь галопом, от себя бегу...
+description: Транжиря силы, разбивая ноги, несусь галопом, от себя бегу...
 ---
 
 Тра<span class="Em"></span>нжиря си<span class="Em7"></span>лы, раз<span class="A7sus"></span>бивая но<span class="B7sus"></span>ги,
