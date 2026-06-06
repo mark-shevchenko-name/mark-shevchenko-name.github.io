@@ -50,3 +50,7 @@ description: "Жизнь моя — песок, жизнь моя — вода. 
 Жизнь промчится в темпе вальса,
 Как ни бейся, но всё будет зря!
 {: .indented}
+
+<div class="video-wrapper">
+  <iframe src="https://vkvideo.ru/video_ext.php?oid=-226124872&id=456239100&hash=d4d2dacb17bcbf8b&hd=4" width="1920" height="1080" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+</div>

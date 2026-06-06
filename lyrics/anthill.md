@@ -47,3 +47,7 @@ description: "В переполненных вагонах метро и в га
 Но стою я не на том берегу.
 Очень хочется отсюда сбежать.
 Я сейчас остановлюсь. И сбегу.
+
+<div class="video-wrapper">
+  <iframe src="https://vkvideo.ru/video_ext.php?oid=-226124872&id=456239090&hash=eac4011d51425dca&hd=4" width="1920" height="1080" allow="autoplay; encrypted-media; fullscreen; picture-in-picture; screen-wake-lock;" frameborder="0" allowfullscreen></iframe>
+</div>
