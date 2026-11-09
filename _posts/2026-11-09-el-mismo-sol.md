@@ -1,7 +1,7 @@
 ---
 title: "El Mismo Sol"
 date: "2026-11-09 09:00:00 +0300"
-excerpt: "Внезапная светлая песня из интернета."
+excerpt: "Открыл для себя Alvaro Soler. Танцую и пою!"
 ---
 
 Открыл для себя Alvaro Soler.
