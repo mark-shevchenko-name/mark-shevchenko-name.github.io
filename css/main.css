@@ -182,6 +182,7 @@ blockquote {
 .Dm_C,
 .Dm7,
 .E,
+.E7,
 .Em,
 .Em6,
 .Em7,
@@ -192,6 +193,7 @@ blockquote {
 .G,
 .G7,
 .Gm,
+.Gm6,
 .Gm11 {
 	position: relative;
 	top: -0.9em;
@@ -300,6 +302,10 @@ blockquote {
 	content: 'E';
 }
 
+.E7:before {
+	content: 'E\2087';
+}
+
 .Em:before {
 	content: 'E\2098';
 }
@@ -338,6 +344,10 @@ blockquote {
 
 .Gm:before {
 	content: 'G\2098';
+}
+
+.Gm6:before {
+	content: 'G\2098\2086';
 }
 
 .Gm11:before {
