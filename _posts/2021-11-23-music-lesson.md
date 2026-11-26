@@ -11,5 +11,5 @@ excerpt: "Ольга Каморник, преподаватель игры на 
 Мы записали с ней «эталонный» урок и недавно он появился в YouTube. Посмотрите, может быть вам тоже будет полезно.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/-zAG6_FegRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-zAG6_FegRA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

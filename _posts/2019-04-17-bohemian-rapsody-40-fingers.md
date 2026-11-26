@@ -11,5 +11,5 @@ excerpt: "Чудо что за исполнение."
 Сегодня YouTube порадовал меня шикарным переложением песни для четырёх гитар. Завораживает.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/RFPnZayG0VI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/RFPnZayG0VI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

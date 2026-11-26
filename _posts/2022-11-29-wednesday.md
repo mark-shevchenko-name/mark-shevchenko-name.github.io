@@ -23,7 +23,7 @@ excerpt: "Детективно-мистический сериал, 2022."
 Прошла неделя. Сериал уже называют культовым. Стоит ли смотреть? Подросткам — определённо, да. Любителям Бёртона — да. Ценителям чёрного юмора — тоже да. А вот, кстати, и *тот самый танец*.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/NakTu_VZxJ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NakTu_VZxJ0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Приятного просмотра. Надеюсь, сериал вам понравится.

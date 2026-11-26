@@ -20,7 +20,7 @@ excerpt: "Достучаться до небес и Труффальдино."
 Фильм заканчивается на берегу моря, куда хотели попасть оба. Звучит песня *Knocking on Heaven's Door*. Фильм назвали в честь песни, но, видимо, переводчик не стал тратить время, чтобы разобраться с названием. В русском переводе фильм назыается *Достучаться до небес*.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/szDY06ViMJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/szDY06ViMJU" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Когда я в детстве смотрел фильм &laquo;Приключения Буратино&raquo;, всегда болел за Пьеро и недолюбливал Арлекина. В песне Аллы Пугачёвой Арлекин был уже положительным персонажем, клоуном, которому нельзя показывать свои чувства. С детства помню, что Пьеро и Арлекин, это имена, такие же, как у нашего Петрушки.
@@ -40,5 +40,5 @@ XVIII века Карло Гольдони написал пьесу &laquo;Сл
 и Стоят девчонки. Но сегодня на Квартирнике мы пели Первую песню Труффальдино. Таково её официальное название.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/pdlgp_uepk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pdlgp_uepk4" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

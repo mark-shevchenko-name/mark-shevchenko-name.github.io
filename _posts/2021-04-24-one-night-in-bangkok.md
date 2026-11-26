@@ -13,7 +13,7 @@ excerpt: "Песня из дества."
 Вот эта песня.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rgc_LRjlbTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rgc_LRjlbTU" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Сейчас я знаю, что поёт её вовсе не группа. Песня написана для мюзикла _Шахматы_. Написали её, без преувелиения, знаковые музыканты Бьорн Ульвеус и Бенни Андерсон, известные всему миру работой в квартете ABBA.
@@ -39,5 +39,5 @@ excerpt: "Песня из дества."
 Я влюбился в него, увидев в шестом сезоне Californication, где Тим играл практически себя — известного и безумного музыканта. И, если вы не видели сериал Upright с Тимом в главной роли — посмотрите. Грустный. Глубокий. Светлый.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/5lTwmK__TDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/5lTwmK__TDo" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

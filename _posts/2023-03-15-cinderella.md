@@ -15,5 +15,5 @@ excerpt: Андрей Белик (композитор Алексей Архип
 Здесь на видео переложение Золушки для гитары. Талантливое переложение, прекрасная игра. Послушайте. Волшебство здесь есть.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/LB40Tc1RYO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/LB40Tc1RYO0" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>

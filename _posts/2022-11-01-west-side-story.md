@@ -11,7 +11,7 @@ excerpt: "Музыкальная трагедия, 2021."
 Не выглядит анахронизмом и оригинальная Вестсайдская история. Стоило ли её переснимать? Да. Если сделать это так, как сделал Спилберг. Мы видим новейший киноязык и новейшую хореографию, которые не стали самоцелью — это средства для того, чтобы хорошо рассказать историю. И история рассказана замечательно. Самая печальная история на свете.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/tqO8_Om1e6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/tqO8_Om1e6U" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Приятного просмотра. Надеюсь, фильм вам понравится.

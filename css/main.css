@@ -1,6 +1,6 @@
 body {
 	background-color: #FBF1DF;
-	font-size: 14pt;
+	font-size: 1.167rem;
 }
 
 h1,
@@ -70,8 +70,8 @@ blockquote {
 .navigation-item > a:hover {
     color: #CC6763;
 	border-bottom: 2px solid #CC6763;
-	font-size: 12pt;
-	padding: 6pt 0;
+	font-size: 1rem;
+	padding: 0.5rem 0;
 	font-weight: bold;
 	display: block;
 	text-align: center;
@@ -80,7 +80,7 @@ blockquote {
 }
 
 .breadcrumbs {
-	font-size: 12pt;
+	font-size: 1rem;
 	margin-bottom: 2em;
 }
 
@@ -124,17 +124,11 @@ blockquote {
 }
 
 .video-wrapper {
-	position: relative;
-	padding-bottom: 56.25% /* 16:9 */;
-	padding-top: 25px;
-	height: 0;
+	aspect-ratio: 16 / 9;
 	margin-bottom: 2em;
 }
 
 .video-wrapper > iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
 	width: 100%;
 	height: 100%;
 }

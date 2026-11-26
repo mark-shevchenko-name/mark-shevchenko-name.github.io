@@ -15,5 +15,5 @@ excerpt: Музыкант и преподавательница гитары О�
 Но мы с Ольгой всё-равно списываемся. Недавно она попросила меня рассказать о моих «успехах» на камеру. У меня из успехов только пара новых песен, но я согласился. Ольга делает в YouTube интересные музыкальные передачи. Принять участие в такой передаче — это и удовольтсвие, и долг, и, в какой-то степени, честь. А результат — перед вами!
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dbXvIeWCmRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dbXvIeWCmRA" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>

@@ -17,7 +17,7 @@ excerpt: "Американский фантастический триллер, 
 Парня играет Скотт Иствуд — сын «хорошего» Клинта Иствуда. Одну из девушек — Кэтрин Уотерстон, известная нам по _Фантастическим тварям_.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/fbaK7Cu4tls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fbaK7Cu4tls" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Приятного просмотра. Надеюсь, фильм вам понравится.

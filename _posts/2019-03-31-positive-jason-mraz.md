@@ -7,5 +7,5 @@ excerpt: "Красивая песня о чём-то хорошем. Навер�
 Люблю Джейсона Мраза. Мелодии простые, но красивые. Вот ещё одна песня, из относительно недавних.
 
 <div class="video-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/BFkTu8Y1KLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BFkTu8Y1KLs" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

@@ -15,7 +15,7 @@ excerpt: "«Умереть тяжело» — что это значит?"
 Ещё одна интересная фраза из фильма — «Yippee-Ki-Yay, Motherfucker». Джон Маклейн произносит её в каждом фильме.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/EU0zqPGqeYA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EU0zqPGqeYA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Motherfucker, думаю, ни у кого вопросов не вызывает. Но что означает это самое непонятное «йиппи-кай-эй»?
@@ -47,13 +47,13 @@ Motherfucker, думаю, ни у кого вопросов не вызывае�
 Актёр Рой Роджерс, игравший ковбоев, носил рубашки, расшитые бисером. В одном из старых фильмов он пел шуточную песнию со знакомым нам пастушим призывом. Вот этот фрагмент.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Fagq3CgSe4A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Fagq3CgSe4A" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Ну и, в качестве бонуса, песня о призрачных всадниках в исполнении Вилли Нельсона и Джонни Кэша.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nOWjX4BpC24" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nOWjX4BpC24" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Пара слов напоследок. Вы думаете, что «йо-хо-хо» из известной пиратской песни это зловещий смех бандитов? Нет!

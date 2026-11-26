@@ -13,13 +13,13 @@ excerpt: "Тёплый ламповый британский детективн�
 Вот такой была песня в оригинале.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/hCuMWrfXG4E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hCuMWrfXG4E" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 А вот такой — в сериале. Все исполнители здесь — звёзды процедурала, каждый со своим характером. Наблюдать их в таких непривычных ипостасях отдельное удовольствие.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Tz8ppujjTXw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Tz8ppujjTXw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Упоминания заслуживают и другие сериалы. Нельзя не вспомнить асоцильно-гаджетного «Шерлока» или пройти мимо интеллектуально-чёрного «Метода Крекера». Отдельно отмечу мрачного «Главного подозреваемого» с Хелен Миррен.

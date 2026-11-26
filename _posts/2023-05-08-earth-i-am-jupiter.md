@@ -11,11 +11,11 @@ excerpt: Песня с концерта Пролетарского танго.
 В YouTube нет официального клипа, но есть современные каверы. Девушки сохранили то самое советское звучание, отнеслись бережно.
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ecsa1ilSoKE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Ecsa1ilSoKE" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="video-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vo3reOKEqzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Vo3reOKEqzQ" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 Пытался узнать, что ещё написала Евгения и обнаружил, что в 2013-м она умерла из-за глупой внезапной болезни, а, впрочем, в болезнях я не разбираюсь. Ей было 44 года.
